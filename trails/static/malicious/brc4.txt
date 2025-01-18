@@ -1,5 +1,7 @@
-# Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
+
+# Aliases: brute ratel
 
 # Reference: https://twitter.com/Unit42_Intel/status/1545207290919264258
 # Reference: https://twitter.com/MichalKoczwara/status/1544403381539717121
@@ -593,13 +595,17 @@ http://54.65.8.67
 
 http://13.114.110.144
 
-# Reference: https://threatfox.abuse.ch/browse/malware/win.brute_ratel_c4/ (# 2023-09-21)
+# Reference: https://threatfox.abuse.ch/browse/malware/win.brute_ratel_c4/ (# 2023-10-01)
 
 http://13.113.45.138
 http://18.180.64.43
 http://3.112.185.142
 http://54.238.135.178
 http://54.238.220.242
+http://54.248.35.92
+104.37.184.181:37971
+146.190.219.130:12023
+18.219.153.204:443
 212.71.235.150:8444
 217.76.52.219:8443
 24.199.115.9:443
@@ -607,7 +613,432 @@ http://54.238.220.242
 38.126.114.218:7437
 45.133.195.58:2443
 45.133.195.58:8443
+45.140.17.42:443
+45.140.17.42:8443
+45.89.55.81:443
+45.89.55.81:8443
 54.155.238.133:443
+64.190.113.179:443
 8.219.217.130:443
 84.32.131.78:443
 91.223.208.155:8443
+
+# Reference: https://threatfox.abuse.ch/browse/malware/win.brute_ratel_c4/ (# 2023-10-09)
+
+http://103.15.186.10
+http://104.21.35.110
+http://13.113.204.244
+http://13.114.224.91
+http://13.115.223.29
+http://13.230.94.200
+http://172.67.218.228
+http://18.176.27.91
+http://196.51.37.139
+http://35.73.40.176
+http://52.196.213.220
+http://54.150.47.200
+http://54.92.112.126
+103.15.186.10:443
+104.21.35.110:443
+161.35.170.123:443
+161.97.130.22:443
+172.111.143.246:8888
+172.67.218.228:443
+178.68.16.136:65357
+18.154.185.115:443
+18.154.185.36:443
+18.238.132.55:443
+18.238.132.5:443
+18.238.132.74:443
+18.238.132.97:443
+18.66.112.114:443
+18.66.112.122:443
+18.66.112.58:443
+18.66.112.89:443
+185.216.71.108:8443
+188.166.157.170:443
+194.49.94.20:10443
+206.189.24.107:443
+206.71.148.131:443
+209.97.189.230:443
+219.94.128.44:443
+45.67.229.237:12821
+46.101.1.45:443
+52.85.247.113:443
+52.85.247.52:443
+52.85.247.5:443
+52.85.247.92:443
+54.198.145.43:443
+89.238.73.27:443
+
+# Reference: https://threatfox.abuse.ch/browse/malware/win.brute_ratel_c4/ (# 2023-12-17)
+
+http://13.112.86.223
+http://13.113.86.16
+http://35.72.81.251
+http://35.79.47.244
+http://43.206.199.216
+http://52.197.96.6
+http://54.150.226.102
+http://54.249.68.233
+http://54.250.116.148
+2.34.147.152:9002
+211.76.170.240:443
+5.42.65.45:50000
+54.198.145.43:8080
+8.212.128.240:59873
+8.212.128.240:8443
+91.92.247.69:8443
+91.92.254.156:8443
+
+# Reference: https://www.virustotal.com/gui/file/0d5af47bde7fdbb370d48611fd5800ec9be785aa77e1fca4badd4d2d3647447d/detection
+
+azureclouder.com
+
+# Reference: https://twitter.com/drb_ra/status/1754395948233437187
+
+http://35.73.145.106
+
+# Reference: https://twitter.com/jaydinbas/status/1758492116366377193
+# Reference: https://www.virustotal.com/gui/file/b90a7868c72e76d5a750f9d5a049c8b9ff3dac9c2895a1c238b9ba96c94644fd/detection
+# Reference: https://www.virustotal.com/gui/file/8165798fec8294523f25aedfc6699faad0c5d75f60bc7cefcbb2fa13dbc656e3/detection
+
+vinci-onedrive.azurewebsites.net
+
+# Reference: https://threatfox.abuse.ch/browse/malware/win.brute_ratel_c4/ (# 2024-03-31)
+
+http://13.113.189.83
+http://18.181.61.11
+http://3.112.78.101
+http://3.115.218.3
+http://52.193.137.127
+138.124.183.209:8443
+157.230.247.198:443
+185.250.151.246:8443
+213.199.35.149:443
+3.36.144.103:443
+46.8.221.19:443
+46.8.221.19:8443
+5.253.43.96:8010
+69.176.89.82:443
+84.246.85.147:443
+88.151.192.114:443
+92.118.112.155:443
+93.66.153.13:9002
+95.179.159.107:443
+
+# Reference: https://threatfox.abuse.ch/browse/malware/win.brute_ratel_c4/ (# 2024-06-22)
+
+http://18.177.14.165
+http://3.115.31.102
+http://52.68.210.54
+http://54.249.228.34
+http://54.95.170.58
+118.107.7.146:443
+31.27.187.236:9002
+45.135.232.38:8443
+45.76.53.16:443
+45.77.136.43:8443
+
+# Reference: https://x.com/Threatlabz/status/1804918852528357791
+
+94.232.249.86:7444
+94.232.249.87:7444
+barsen.monster
+kurvabbr.pw
+
+# Reference: https://x.com/MichalKoczwara/status/1808039481032786239
+
+splunkapi.com
+
+# Reference: https://x.com/banthisguy9349/status/1808550048847818947
+
+81.69.248.100:8000
+
+# Reference: https://x.com/nahamike01/status/1808655269691543684
+
+61.164.242.162:8888
+
+# Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/master/feeds/unverified/IPPortC2s.csv
+
+http://13.112.130.229
+http://13.115.70.76
+http://176.34.50.52
+http://18.180.118.60
+http://35.76.131.174
+104.129.181.195:443
+106.14.122.162:5000
+143.92.42.200:8443
+148.135.35.239:8443
+185.237.165.247:8443
+206.166.251.107:4443
+206.166.251.107:8443
+42.192.107.173:5000
+45.77.172.240:8443
+8.138.39.245:37443
+91.92.254.19:443
+
+# Reference: https://x.com/malwrhunterteam/status/1815713225138143245
+# Reference: https://www.virustotal.com/gui/file/6529e924420db80091f2d132caad8c18f22f9c4c2496e41bf0b3309fd187f508/detection
+
+liveupdatesmonitor.com
+
+# Reference: https://x.com/JAMESWT_MHT/status/1816043377990778894
+# Reference: https://www.virustotal.com/gui/file/e1f94ba658acde6223eba8c5f869226a521fb64af7b6259baf06866812f752b6/detection
+# Reference: https://www.virustotal.com/gui/file/241719892a747862ca98f44bbe4b22336fabbafe0cae7e3a8b30d2a9290c48de/detection
+
+haileigh-oakes.com
+
+# Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/master/feeds/unverified/IPPortC2s-30day.csv (# 2024-08-24)
+
+http://18.177.226.4
+http://43.206.47.12
+http://54.65.7.247
+103.234.72.154:50000
+114.132.183.203:443
+158.247.250.152:50000
+167.172.89.184:443
+167.172.89.184:8443
+212.64.13.7:443
+38.147.172.226:443
+43.159.193.173:443
+47.237.111.1:443
+
+# Reference: https://www.virustotal.com/gui/file/36a028434c55dd9fe73958b563815f52e4cbfebb5115bbd798e6e7270b457f9d/detection
+
+br.libjs.xyz
+
+# Reference: https://x.com/malwrhunterteam/status/1828024457686061312
+# Reference: https://www.virustotal.com/gui/file/3a1f90acf560c1f5b675fcecb8b172c7eba7190c4f511c59759f2a2ab2c4bdff/detection
+
+dkq4prtotbji7.cloudfront.net
+fifgroup.azureedge.net
+/informasi-perusahaan/informasi-umum
+/informasi-perusahaan
+/informasi-umum
+/mitra-fifgroup
+
+# Reference: https://x.com/malwrhunterteam/status/1828753063047500237
+# Reference: https://www.virustotal.com/gui/file/079e3171048286472cff2b0267cd2d6a90bf9d7f45255f48031bf4bf2ac3b0b4/detection
+
+javaforyouedu.in
+
+# Reference: https://x.com/malwrhunterteam/status/1829130035808059668
+# Reference: https://www.virustotal.com/gui/ip-address/104.234.25.56/relations
+# Reference: https://www.virustotal.com/gui/file/59c2266a4db4250a90592075c32f49dc4341921414d78e9b9b9e092a083ba7a8/detection
+
+1398daufhauidhjkadf.com
+systematictld.com
+
+# Reference: https://blog.talosintelligence.com/threat-actors-using-macropack/
+
+http://122.114.10.239
+s-logistics.net
+dns1.s-logistics.net
+dns2.s-logistics.net
+d1209brpqetpa4.cloudfront.net
+d2v6ycjbdzo6ui.cloudfront.net
+d2wpc9lcvgj680.cloudfront.net
+d2z6sfzo660xrm.cloudfront.net
+d3qrqtfazjdt5i.cloudfront.net
+/HubsExtension/Resource/Type/c8d984.php
+
+# Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/master/feeds/unverified/IPPortC2s-30day.csv (# 2024-09-07)
+
+http://35.79.171.237
+http://54.248.85.250
+104.248.7.160:443
+104.248.7.160:8443
+161.35.73.220:443
+161.35.73.220:61337
+167.172.243.32:443
+209.38.196.51:443
+24.144.92.172:443
+3.254.105.98:443
+45.61.137.15:8443
+54.70.52.38:443
+80.255.6.12:40000
+81.95.8.165:40000
+
+# Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/master/feeds/unverified/IPPortC2s-30day.csv (# 2024-09-14)
+
+http://13.231.40.125
+http://35.73.247.226
+77.221.149.199:8443
+92.118.112.193:443
+
+# Reference: https://x.com/malwrhunterteam/status/1837467196655640968
+# Reference: https://www.virustotal.com/gui/file/c3f8ebc9cfb7ebe1ebbe3a4210753b271fecf73392fef98519b823a3e7c056c7/detection
+
+plantytime.com
+
+# Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/master/feeds/unverified/IPPortC2s-30day.csv (# 2024-09-22)
+
+http://54.178.38.136
+157.230.63.141:443
+164.90.144.91:443
+185.106.176.250:8443
+205.209.126.137:41867
+81.95.8.178:40000
+94.156.67.247:443
+
+# Reference: https://x.com/iam_rajhans/status/1839221953980149808
+# Reference: https://www.virustotal.com/gui/file/45257b5cd16d391bc37afe4a6534610cb1bb70c14dbec15b5594ad798d31933f/detection
+
+d19uqbwzyx9r4z.cloudfront.net
+
+# Reference: https://x.com/malwrhunterteam/status/1839924221201220056
+# Reference: https://www.virustotal.com/gui/file/b67ce96362756c7a8f22e535b6a73aa9edbb84568c591efab378c0e3a5257368/detection
+
+74.50.84.181:443
+
+# Reference: https://github.com/pr0xylife/Latrodectus/blob/main/Latrodectus_03.10.2024.txt
+
+combazarunet.com
+
+# Reference: https://github.com/pr0xylife/Latrodectus/blob/main/Latrodectus_04.10.2024.txt
+# Reference: https://www.virustotal.com/gui/file/07282b92613d88cdeb02dc30835216268c7ec378bb0ff7a08bb280775a8f82c3/detection
+
+141.98.234.114:8042
+185.106.92.80:8042
+82.115.223.150:8042
+obobobo.com
+pobegskichi.com
+sosachwaffen.com
+
+# Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/refs/heads/master/feeds/unverified/IPPortC2s-30day.csv (# 2024-10-13)
+
+http://52.198.166.185
+http://54.178.8.63
+http://54.248.167.251
+http://57.180.68.148
+120.26.97.135:23333
+143.198.123.32:8443
+18.201.190.57:443
+194.48.154.64:443
+34.211.116.85:443
+47.113.193.147:443
+47.113.193.147:8443
+47.93.240.197:444
+52.250.14.157:8443
+54.71.218.247:443
+81.19.141.238:10443
+87.120.127.145:1080
+94.232.247.68:443
+
+# Reference: https://github.com/pr0xylife/Latrodectus/blob/main/Latrodectus_16.10.2024.txt
+# Reference: https://www.virustotal.com/gui/file/0cf42f02249025e69a65c5395e04c3e220cf59cbf02daf1f04b036d740fbf96c/detection
+# Reference: https://www.virustotal.com/gui/file/02e54ffdb478f964dc486197e239c802bffef514bedfa3a30f50f9b8fea8bfbd/detection
+
+185.106.92.108:8810
+185.106.92.109:8810
+185.106.92.110:8810
+berzzuzz.com
+deltaso.com
+soccoc.africa
+
+# Reference: https://x.com/malwrhunterteam/status/1854823012798738814
+# Reference: https://www.virustotal.com/gui/file/c96ec96ea29372311cbef1d2b23f0e51b06f1f6184a41da985142929d9fa2f02/detection
+# Reference: https://www.virustotal.com/gui/file/714944899f2b0fe6496ac15359ba90fb9d9891a84111fc7dc3cd5b1093b17347/detection
+
+45.143.166.83:8822
+45.143.166.83:8877
+80.66.76.106:8822
+80.66.76.106:8877
+ergiholim.com
+rolefenik.com
+waffaffa.com
+xomamox.com
+
+# Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/refs/heads/master/feeds/unverified/IPPortC2s-30day.csv (# 2024-11-10)
+
+http://13.115.99.135
+http://52.69.75.103
+http://54.249.240.178
+http://54.249.244.152
+http://54.250.147.219
+http://57.180.74.95
+104.207.132.109:443
+159.89.105.196:443
+164.90.146.24:443
+165.232.139.231:443
+23.168.152.67:8443
+23.168.152.68:443
+94.156.166.170:1378
+94.232.247.97:21
+
+# Reference: https://github.com/pr0xylife/Latrodectus/blob/main/Latrodectus_19.11.2024.txt
+# Reference: https://www.virustotal.com/gui/file/14ffcbbfb305287ea15264df3363567f36a26917ae2018af0f40e2009b8a7184/detection
+
+46.249.49.83:4438
+94.232.40.38:4438
+guaaug.com
+uayyau.com
+
+# Reference: https://x.com/Cryptolaemus1/status/1856774655534637418
+# Reference: https://www.virustotal.com/gui/file/0f23855e56eb6ec760717be43280eeeeaec1aeef939f9ae6a41daf1b8e3bd306/detection
+
+45.143.166.230:9043
+87.120.37.120:9043
+azuredcloud.world
+burjog.com
+memorun.life
+samomol.com
+
+# Reference: https://x.com/P4nd3m1cb0y/status/1861171310824693892
+
+146.70.213.35:443
+162.254.85.213:443
+162.254.86.108:443
+185.75.240.211:443
+35.161.207.170:443
+84.46.239.89:443
+
+# Reference: https://x.com/malwrhunterteam/status/1861747344770843000
+# Reference: https://www.virustotal.com/gui/file/196b4d327d8cc1fab8d801c19872c0b084d7485aeb1a103396652ff40fae45e1/detection
+
+http://147.45.124.228
+147.45.124.228:443
+
+# Reference: https://github.com/pr0xylife/Latrodectus/blob/main/Latrodectus_02.12.2024.txt
+# Reference: https://www.virustotal.com/gui/file/f2170f7dc2f97434ef4514ed4272dc8792177038a085f248ba33f9259720afda/detection
+# Reference: https://www.virustotal.com/gui/file/c3baf0446831b6968a30ea23647ac559ee62219f91daae5c1b0a9787f9c860b9/detection
+# Reference: https://www.virustotal.com/gui/file/658b8c47d7193c7c31a2540b2f54fcdfb9298d8346a4ad3be7e684ef946f57a5/detection
+
+103.57.249.207:6542
+94.232.43.224:6542
+huanvn.com
+vutarf.com
+
+# Reference: https://github.com/pr0xylife/Latrodectus/blob/main/Latrodectus_17.12.2024.txt
+# Reference: https://www.virustotal.com/gui/file/1552c43ecf6eeb5e2fe13cc1c25e6bdacf227222afaa9a523d996b6331945505/detection
+
+94.232.40.41:8817
+94.232.46.11:8817
+cronoze.com
+muuxxu.com
+
+# Reference: https://x.com/smica83/status/1870090463610302821
+# Reference: https://www.virustotal.com/gui/file/ea60a02b914e79c8c108e95cf0e23bea502b5f37f6a57a3fdf0ea0707e75e945/detection
+
+assetmanagement.azureedge.net
+
+# Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/refs/heads/master/feeds/unverified/IPPortC2s-90day.csv (# 2025-01-02)
+
+http://13.113.63.238
+http://13.230.79.217
+http://52.193.97.60
+http://52.68.181.183
+http://54.250.141.217
+104.207.132.109:1443
+107.174.0.170:8443
+167.179.104.231:443
+206.233.249.131:443
+34.213.47.69:443
+38.60.245.46:50000
+46.8.226.42:40006
+47.239.236.221:443
+60.204.234.238:53790
+95.169.196.118:443
+95.169.196.36:443
+96.73.26.29:443

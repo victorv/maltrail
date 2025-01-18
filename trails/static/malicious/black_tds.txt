@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Aliases: Browlock
@@ -890,3 +890,9 @@ kingerosses.top
 # Reference: https://twitter.com/VK_Intel/status/985985335141257216
 
 wnyyqcartspxw.xyz
+
+# Reference: https://x.com/1ZRR4H/status/1799686875252236294
+
+blacktds.black
+blacktds.cloud
+findus.quest

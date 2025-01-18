@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: http://malwaretips.com/threads/connects-to-tor-hidden-services-through-tor2web.42274/
@@ -58,6 +58,11 @@ tor-explorer.org
 # (note: just for (non-SOCKS) ONION domain lookups)
 
 .onion
+
+# Reference: https://www.virustotal.com/gui/ip-address/173.212.254.192/relations
+# Reference: https://www.virustotal.com/gui/file/678a67351a8caecb478c9d783bb4dbe666df16c9fca628b2355be0fc6bc348d9/detection
+
+173.212.254.192:31337
 
 # Misc
 

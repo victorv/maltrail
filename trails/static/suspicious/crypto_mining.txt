@@ -1,9 +1,10 @@
-# Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://hackforums.net/printthread.php?tid=5655422
 # Reference: https://twitter.com/r3dbU7z/status/1347527548977242116
 # Reference: https://www.virustotal.com/gui/file/6cd557cb2582ab5cf8d0e77131479ab91c00bfdf9c775c170809d5265bf0477a/detection
+# Reference: https://www.virustotal.com/gui/file/f77ab04ee56f3cd4845d4a80c5817a7de4f0561d976d87563deab752363a765d/detection
 
 107.191.47.239:3333
 176.31.105.53:3333
@@ -34,6 +35,7 @@ nanopool.org
 ethereumpool.co
 suprnova.cc
 siamining.com
+web.xmrpool.eu
 
 # Reference: https://www.virustotal.com/gui/file/7738ad1029f1709ec86c8ba24e04b3f71edf671b64681b884ccd70725a1674a5/detection
 
@@ -448,7 +450,6 @@ xmr.bepooh.com
 
 51.81.245.40:5555
 us-west.minexmr.com
-webservicepag.webhop.net
 
 # Reference: https://thedfirreport.com/2020/11/12/cryptominers-exploiting-weblogic-rce-cve-2020-14882/
 # Reference: https://otx.alienvault.com/pulse/5fad78631749dbff71a31f55
@@ -1169,3 +1170,303 @@ yes.fastpool.xyz
 144.217.14.139:14433
 142.44.242.100:14433
 xmr-us-east1.nanopool.org
+
+# Reference: https://www.virustotal.com/gui/file/6fd2d6b17b9dacd8a3ee9afdbe5d3336261e3c3bc9ea6426fe2583dd459fe72c/detection
+
+109.218.195.167:8333
+114.32.2.88:8333
+122.107.75.155:8333
+125.34.22.199:8333
+142.93.137.252:8333
+143.110.252.124:8333
+143.244.44.172:8333
+148.251.183.115:8333
+152.37.90.68:8333
+161.97.204.130:8333
+162.255.116.244:8333
+168.119.163.115:8333
+172.106.128.212:8333
+176.79.128.166:8333
+178.142.78.47:8333
+179.61.228.147:8333
+180.150.37.224:8333
+183.111.230.139:8333
+183.27.183.199:8333
+184.152.77.81:8333
+185.16.238.104:8333
+185.242.113.224:8333
+192.3.11.24:8333
+195.56.63.6:8333
+198.54.133.138:8333
+202.184.3.8:8333
+206.123.112.180:8333
+206.189.62.95:8333
+207.180.206.20:8333
+212.14.102.222:8333
+212.51.143.246:8333
+23.106.252.230:8333
+24.127.102.190:8333
+3.222.208.128:8333
+34.95.38.162:8333
+38.54.14.89:8333
+40.142.54.220:8333
+45.129.32.4:8333
+45.131.195.148:8333
+47.39.207.183:8333
+47.75.176.144:8333
+5.42.132.211:8333
+5.42.158.69:8333
+52.221.239.141:8333
+62.122.1.157:8333
+65.21.91.58:8333
+67.160.56.132:8333
+68.132.27.168:8333
+68.8.242.113:8333
+75.132.221.31:8333
+79.134.121.34:8333
+84.69.229.69:8333
+85.249.106.168:8333
+86.76.7.132:8333
+88.130.113.32:8333
+90.188.26.25:8333
+92.117.190.85:8333
+95.172.62.167:8333
+95.217.206.33:8333
+96.225.88.43:8333
+99.43.41.3:8333
+99.91.164.107:8333
+
+# Reference: https://www.virustotal.com/gui/file/a21b406dd4f152c0831201585a21da8e60bd1da218e801e2d7c29076dc6c2be0/detection
+
+135.125.238.108:10343
+212.47.253.124:10343
+51.15.65.182:10343
+51.68.190.80:10343
+
+# Reference: https://securelist.com/stripedfly-perennially-flying-under-the-radar/110903/
+
+136.243.64.181:5555
+136.243.64.189:5555
+144.76.224.218:5555
+160.124.138.56:5555
+163.172.166.29:5555
+204.11.56.48:5555
+208.91.197.46:5555
+23.111.182.106:5555
+23.111.182.110:5555
+45.63.78.206:5555
+51.158.75.63:5555
+91.121.67.58:5555
+94.23.66.17:5555
+aeon-pool.com
+mine.aeon-pool.com
+
+# Reference: https://www.virustotal.com/gui/file/fbd17e6ef926b07841023bbf7d0c89126e926bc58bba1cb4be9c1e073e1394d4/detection
+
+51.89.217.80:7777
+
+# Reference: https://www.virustotal.com/gui/file/fa90294c2cd7c12d68524c55cc5ed0e3276d0a7bbce8fedec1e0cf679e521298/detection
+
+163.172.154.142:14433
+
+# Reference: https://www.virustotal.com/gui/file/022be80de02b7b81cb7221fb7836924b3464d77096c5b3bc2a5aac56dc570d87/detection
+
+64.235.37.55:3333
+soloxmr2min.dyndns.org
+
+# Reference: https://www.fortinet.com/blog/threat-research/gotitan-botnet-exploitation-on-apache-activemq
+# Reference: https://www.virustotal.com/gui/file/316ca1b380e37c0d785eeabf5a1cb5fe184953076761b5ce99ace39992d95d9a/detection
+
+207.38.87.6:3333
+207.38.87.6:8444
+80.211.206.105:8444
+
+# Reference: https://www.virustotal.com/gui/file/ff0179442402fa306c85ba83a87df2cc46d13012a1e2819e73a6b3586c5c8dc3/detection
+
+51.68.190.80:10300
+
+# Reference: https://www.virustotal.com/gui/file/9745eaca508255646d2039383150952955f49196767a160968fcf83130ad9a90/detection
+
+51.255.34.118:10300
+
+# Reference: https://www.virustotal.com/gui/file/93988c13f8e6dc3cc6d9256992d417057e164785c1ad05f6984fc769af5b597a/detection
+
+51.15.58.224:10300
+
+# Reference: https://www.virustotal.com/gui/file/7be62b138938d130c33f7702cc73167932b2ecd577dd7ce3505842e8bb8def35/detection
+
+212.47.253.124:10300
+
+# Reference: https://www.virustotal.com/gui/file/5901691afd331944b38939588b1ac7480c1ea76ba32c703bb61af1be4c72bb50/detection
+
+51.68.143.81:10300
+
+# Reference: https://www.virustotal.com/gui/file/ed04d8ebbc30c39278f1e22d2442853ff704f97f0e494d069034dee2239bc43a/detection
+
+51.15.193.130:10343
+51.15.58.224:10343
+
+# Reference: https://www.virustotal.com/gui/file/7410bec5806e8ad2b0e3b3d56bb40f276b7e75ec2235ecc2e5e283ba3541733b/detection
+
+163.172.154.142:10343
+51.68.143.81:10343
+
+# Reference: https://twitter.com/banthisguy9349/status/1735212305946689707
+
+51.68.21.188:4444
+
+# Reference: https://www.virustotal.com/gui/file/53377a9e2179dd1a66a8c4a47d92b270b79df5fdb32157156fab2c7044793708/detection
+
+15.204.240.197:5432
+15.204.244.104:5432
+miningocean.org
+
+# Reference: https://www.virustotal.com/gui/file/90e3c44faed310e256c2f66b3a5eaf1919cbf88c6d1e15ec4093d68ff4af3555/detection
+
+54.37.137.114:10300
+
+# Reference: https://www.virustotal.com/gui/file/331a75ab3e14a546fa959374d44e7d2bc41be149a610293fba80bc8381d2f8a0/detection
+
+51.15.193.130:10300
+
+# Reference: https://www.virustotal.com/gui/ip-address/43.129.205.244/relations
+# Reference: https://www.virustotal.com/gui/file/f4b1900fe8cb3521d9ec85473ecc693eb441ac9d05edbb55b541e7b9450ff3c4/detection
+
+43.129.205.244:5555
+awgoaigartnj-xmr.com
+pool.awgoaigartnj-xmr.com
+
+# Reference: https://www.virustotal.com/gui/file/d7f7bfd471f21a91aad6bd2726cc3899440665c6fd6522374e8850bd1ef79a90/detection
+
+167.235.223.40:1123
+zephyr.herominers.com
+de.zephyr.herominers.com
+
+# Reference: https://www.cadosecurity.com/containerised-clicks-malicious-use-of-9hits-on-vulnerable-docker-hosts/
+
+27.36.192.16:3333
+27.36.202.174:3333
+27.36.210.44:3333
+27.36.211.238:3333
+byw.dscloud.me
+
+# Reference: https://www.trendmicro.com/en_us/research/21/l/a-look-into-purple-fox-server-infrastructure.html
+
+108.177.235.90:443
+
+# Reference: https://www.virustotal.com/gui/file/2dd720d7cf395b32456fb2ed6b376321c6b29bdcd1bf349a7455414e9d564a3e/detection
+
+141.94.96.195:3333
+pool-fr.supportxmr.com
+
+# Reference: # Reference: https://tria.ge/240212-pz8lpsde6w/behavioral1
+
+xmr-us-west1.nanopool.org
+
+# Reference: https://www.virustotal.com/gui/file/87f6e9f0e2b2251c6e4a1bc94b8f30c1d86e69955067f5cf989e457abfcf67d3/detection
+
+5.161.70.189:19999
+c3pool.org
+auto.c3pool.org
+
+# Reference: https://www.cadosecurity.com/migo-a-redis-miner-with-novel-system-weakening-techniques/
+# Reference: https://www.virustotal.com/gui/domain/xmr-jp1.nanopool.org/relations
+
+139.162.112.195:14433
+139.162.81.90:14433
+139.99.102.74:14433
+157.240.10.41:14433
+172.105.205.14:14433
+172.105.211.250:14433
+xmr-jp1.nanopool.org
+
+# Reference: https://twitter.com/banthisguy9349/status/1764380866317279422
+
+162.19.241.67:5332
+de-zephyr.miningocean.org
+
+# Reference: https://www.virustotal.com/gui/file/4821de1d9972b0e89c11d4c5c03406c6daf2a1f4ab951354ff108d7b65151f68/detection
+
+159.203.162.18:3333
+
+# Reference: https://twitter.com/sicehice/status/1781146516905677069
+# Reference: https://twitter.com/sicehice/status/1781146695775986022
+
+195.201.97.156:23333
+
+# Reference: https://www.virustotal.com/gui/file/c35d5fb22d47e276e38fde699fc3b1e88e60a708d85b6ebea69815dec5d4883e/detection
+
+146.59.154.106:10343
+
+# Reference: https://www.virustotal.com/gui/file/770ea64c26b02dedd8110d516aaebcc5571db40a6e345289258462c2511e8f32/detection
+
+51.195.138.197:10343
+51.222.200.133:10343
+51.68.137.186:10343
+
+# Reference: https://twitter.com/alex_lanstein/status/1790004557696659522
+# Reference: https://www.virustotal.com/gui/file/57422d7d2c86a15aac59f4d8cda193090c7d7d8b5f4e36dcfcc940fc72daed88/detection
+
+162.19.224.121:10343
+212.47.253.124:10343
+51.15.89.13:10343
+54.37.232.103:10343
+
+# Reference: https://www.virustotal.com/gui/file/488385cd54d14790b03fa7c7dc997ebea3f7b2a8499e5927eb437a3791102a77/detection
+
+51.15.89.13:10943
+51.15.89.17:10943
+zeph-eu2.nanopool.org
+
+# Reference: https://x.com/malwrhunterteam/status/1818245100251615266
+# Reference: https://www.virustotal.com/gui/file/3bb3dbb608780e8d14193100dd7fcbcd8a68cb43fe2ad705c990fe8015f2a99a/detection
+
+129.226.111.18:33333
+43.129.150.140:33333
+43.129.150.155:33333
+43.129.150.53:33333
+47.76.24.49:33333
+5.161.70.189:33333
+c3.wptask.cyou
+
+# Reference: https://www.virustotal.com/gui/file/5f838d04ded091db91c69f7107e43bb0ec1db3b472e75c2d647cd3a53ed6db69/detection
+
+51.195.127.124:7777
+kryptex.network
+xmr.kryptex.network
+
+# Reference: https://www.virustotal.com/gui/file/e23b9cae980fa0271cd0a2301f3d4cb67b55c689fd9e1f499b875f61487fcdce/detection
+
+107.167.83.34:3333
+107.167.92.130:3333
+
+# Reference: https://www.virustotal.com/gui/file/f23470688cea62fb7b3dfcf75fff0ad7cc31386cca92ec5214d87fd0efa93698/detection
+
+195.201.190.170:1230
+salvium.herominers.com
+de.salvium.herominers.com
+
+# Reference: https://www.virustotal.com/gui/file/8a99b284aef50ecd153cc7f2416ac0f3154b32d1e16a93217213ad31c84b138c/detection
+# Reference: https://www.virustotal.com/gui/file/e3801874cc5d57f0f249ba6499d6c870e2a1ed6f695ada3389cbf19ed2c85d6e/detection
+
+141.94.96.144:3333
+
+# Reference: https://www.virustotal.com/gui/file/4d8b4804588694ae16f0d5ce61b1e75630657faf320123402c1f322c93fe2443/detection
+
+141.95.98.19:2222
+2miners.com
+zeph.2miners.com
+
+# Reference: https://www.virustotal.com/gui/file/ab41e347fec54af86ef8edd98c695a7e856a93a30cd07a89d7669896b419b92b/detection
+
+141.94.23.83:10300
+51.15.65.182:10300
+54.37.232.103:10300
+
+# Reference: https://www.virustotal.com/gui/file/05a9d7a61ea58700da1cbd17e8cf648339bb2cc4bba7b2c08c949889efb74055/detection
+
+51.15.54.102:14444
+
+# Reference: https://www.virustotal.com/gui/file/a4c4487dcacebf5048b2266233f5645cfe421154f26e6685ced36aa0621037f1/detection
+
+pool-de.supportxmr.com

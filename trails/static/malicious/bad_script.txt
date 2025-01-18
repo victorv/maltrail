@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://blog.alyac.co.kr/2347
@@ -396,7 +396,7 @@
 /out-571924757.hta
 /out-756898907.hta
 
-# Refecerence: https://twitter.com/bit_dam/status/1256311982992633862
+# Reference: https://twitter.com/bit_dam/status/1256311982992633862
 
 /new%201.hta
 
@@ -2750,7 +2750,7 @@ tunacan-812.tk
 /cachetfmbUXkGerOtP.php
 /_cachetfmbUXkGerOtP.php
 
-# Refefrence: https://www.virustotal.com/gui/ip-address/141.8.194.74/relations
+# Reference: https://www.virustotal.com/gui/ip-address/141.8.194.74/relations
 
 /9ldfcvv539grtjr1krbwrbsf.php
 
@@ -3514,7 +3514,11 @@ tunacan-812.tk
 
 # Reference: https://www.virustotal.com/gui/domain/checkerrors.ug/relations
 
+/payload.bat
+/payload.hta
 /payload.ps1
+/payload2.bat
+/payload2.hta
 /payload2.ps1
 
 # Reference: https://twitter.com/HONKONE_K/status/1133205335877885952
@@ -3802,7 +3806,7 @@ tunacan-812.tk
 
 /25692ea80cd968.php
 
-# Reference: # Reference: https://twitter.com/James_inthe_box/status/1349360887186874371
+# Reference: https://twitter.com/James_inthe_box/status/1349360887186874371
 
 /eea5c8636b504d.php
 
@@ -3868,6 +3872,7 @@ premcloa.shop
 /BB.ps1
 /Invoke-CustomKatz.ps1
 /Invoke-Mimikatz.ps1
+/Invoke-Mimikatz2.ps1
 /powercat.ps1
 /shell.hta
 /shell.ps1
@@ -4245,7 +4250,7 @@ d27qdop2sa027t.cloudfront.net
 /3dbea0f5d87dcc.php
 
 # Reference: https://twitter.com/r3dbU7z/status/1381517028817825795
-# Reference: # Reference: https://twitter.com/r3dbU7z/status/1457338809566343168
+# Reference: https://twitter.com/r3dbU7z/status/1457338809566343168
 # Reference: https://www.virustotal.com/gui/url/026ec2ee22c5b8a04806a13701238e971565cd80d9ca10a0be85c80f4222fa9e/details
 
 /payload1.apsx
@@ -4902,7 +4907,7 @@ g.d.cg
 
 https-center.net
 
-# Reference: # Reference: https://twitter.com/pr0xylife/status/1450047080089759745
+# Reference: https://twitter.com/pr0xylife/status/1450047080089759745
 
 /b04042b22b2b6179257d.php
 
@@ -5957,13 +5962,6 @@ s.langhort.com
 
 /update_wapp2.aspx
 
-# Reference: https://www.virustotal.com/gui/file/49ac5872f91182bac543788dfd168eb4e103c11f42b1585879d6999ede367500/detection
-
-/awautng.php
-/upwawsfrg.php
-/zawautng.php
-/stwittc/upwawsfrg.php
-
 # Reference: https://twitter.com/drb_ra/status/1568421255627550720
 
 /wpaas/load.php
@@ -6284,6 +6282,7 @@ http://37.1.209.213
 /injector
 
 # Reference: https://twitter.com/malwrhunterteam/status/1611423202957213701
+# Reference: https://twitter.com/r3dbU7z/status/1717062792589586859
 # Reference: https://www.virustotal.com/gui/file/4c1b02898a8fc99afa72f1616ecdda6bda734a9487fdf0d9725eca3c422a4c23/detection
 
 /bypass.asp
@@ -6294,6 +6293,14 @@ http://37.1.209.213
 /bypass.php
 /bypass.ps1
 /bypass.vbs
+/bypass2.asp
+/bypass2.aspx
+/bypass2.bat
+/bypass2.hta
+/bypass2.js
+/bypass2.php
+/bypass2.ps1
+/bypass2.vbs
 
 # Reference: https://twitter.com/Stalkphish_io/status/1612427080758710272
 
@@ -6383,22 +6390,6 @@ wildhottiegirls.com
 # Reference: https://app.any.run/tasks/ee706ee5-26a2-4cf9-b0dc-b18a9951ac94/
 
 /2455818bc570ff.php
-
-# Reference: https://twitter.com/wwp96/status/1628273497708326912
-# Reference: https://blog.sekoia.io/stealc-a-copycat-of-vidar-and-raccoon-infostealers-gaining-in-popularity-part-1/
-
-/273d9c8034a95cb4.php
-/413a030d85acf448.php
-/6842f013779f3d08.php
-/752e382b4dcf5e3f.php
-/8621de5ba9a36454.php
-/8c3498a763cc5e26.php
-/984dd96064cb23d7.php
-/bca98681abf8e1ab.php
-/bef7fb05c9ef6540.php
-/c1377b94d43eacea.php
-/d8ab11e9f7bc9c13.php
-/f9f76ae4bb7811d9.php
 
 # Reference: https://twitter.com/malwrhunterteam/status/1628482090114203649
 
@@ -6597,6 +6588,10 @@ tpc.cdn-linkedin.info
 # Reference: https://twitter.com/James_inthe_box/status/1663586640101793793
 
 /5de6a3ffd5d23c.php
+
+# Reference: https://threatfox.abuse.ch/ioc/1211511/
+
+/e59783f5c53b6e.php
 
 # Reference: https://twitter.com/threatintel/status/1663920614887899152
 
@@ -6818,6 +6813,8 @@ tpc.cdn-linkedin.info
 /inject.ps1
 /inject.py
 /inject.vbs
+/inject.wsf
+/inject.xsl
 /injection.asp
 /injection.aspx
 /injection.bat
@@ -6828,157 +6825,11 @@ tpc.cdn-linkedin.info
 /injection.py
 /injection.vbs
 /injection.wsf
+/injection.xsl
 
 # Reference: https://twitter.com/petrovic082/status/1699766482517798930
 
 /hhhhhhhhhhhhhhhh.hta
-
-# Reference: https://threatfox.abuse.ch/browse/malware/win.stealc/
-
-/0156a772a135ba9f.php
-/0243ec92ae2268d1.php
-/09c9de54c6be1727.php
-/0cf6bfa19d78b1fb.php
-/0fad59ad7536045a.php
-/11acf293b39e9ca9.php
-/1569b69c95a21d02.php
-/16b371d42fb67a99.php
-/18d098f4b1370ff7.php
-/18e7847188a1b7bd.php
-/1afb7d7c2e47bc96.php
-/1b17ccc0c3d00b18.php
-/1ba5bb0d68094a78.php
-/1c80d1b40e06f613.php
-/1d9e38415ea54afa.php
-/1eee64e8b97cf4c0.php
-/2358d131c82bf789.php
-/25d4fc7fb0cb6b78.php
-/27e2c065315ea17e.php
-/29b7525be881c8ea.php
-/29dca981ee82db8c.php
-/2b1fd477f413315b.php
-/2e12d77e23b78d01.php
-/31f2a38ac74a9d54.php
-/32995c13678be6b6.php
-/329b7da7ac4c3538.php
-/33fecaaa07623b61.php
-/385785d59336a866.php
-/3886d2276f6914c4.php
-/3887d9245e395091.php
-/3aa13fff14e398a1.php
-/3b4f49719257c673.php
-/3cd43889ddd6a80f.php
-/410b5129171f10ea.php
-/43e18f2a3b646c54.php
-/482ca91956745c96.php
-/48a8a6cd726abeec.php
-/49621a18efb46765.php
-/4b91eb784a77478c.php
-/4e6508e4090e861a.php
-/4e815d9f1ec482dd.php
-/4f230c0dd4efa481.php
-/5065bfaf5315fdfb.php
-/507d5f6a261ae9ed.php
-/5196ba262b6d60e7.php
-/522d6f9280951d7f.php
-/59b232f2b6dc5770.php
-/5ae84a6abb1a9a5b.php
-/5b470b53a9d137ee.php
-/5c06c05b7b34e8e6.php
-/5edef101caff1aeb.php
-/603aeb43718ab133.php
-/60ed11b9deeca694.php
-/628ddfb216f373ea.php
-/6333ebeebfa39cd2.php
-/649938577e826117.php
-/68517e86206d47d9.php
-/693386d591752f22.php
-/69b3ae67feef2db7.php
-/6b989c9d91160b88.php
-/6d39c24c1b988e61.php
-/6e26382b1807d1b9.php
-/70434c9d1b55ce63.php
-/70664a52ad417ca5.php
-/72cd883ebd748330.php
-/72e62e029dc81ebf.php
-/7322cd0544d1389a.php
-/7525b57b5f844240.php
-/75c330d4b64e47af.php
-/75e7ead3c17835de.php
-/79a4685f16037964.php
-/7a03fb9d4773da33.php
-/7a30931b86e576c1.php
-/7a8cfa6ac1363434.php
-/7b50f8c270624cf1.php
-/7baff47bec0ff5db.php
-/7d2562ceb045ed06.php
-/80345778030edaf1.php
-/812472d22955f523.php
-/838d8918a5621059.php
-/8569064d5363f710.php
-/86d110a6ca1786a5.php
-/88f3e0ab5b24337d.php
-/8aa296a5a560dea2.php
-/8c790830ecbaab3b.php
-/9046019a53d66236.php
-/91541f2f0ca4ecd4.php
-/94ed4bf54583a4fa.php
-/976a2eda99155f48.php
-/9827126d94c3e848.php
-/9a54e32a8b27f71c.php
-/9af57c9106bf2c01.php
-/9fd9dde806b954c2.php
-/a2f524d70db7d1a7.php
-/a431f538ac55c20c.php
-/a68326a8bd26a679.php
-/a8ae018f1ad770f9.php
-/a8ed39255f1c5109.php
-/abdf030235da153b.php
-/ae2e04e22dac63e2.php
-/aebba6766a94d98b.php
-/b029e4e66ef421e6.php
-/b2ecfe73736f99f5.php
-/b36760e16933b668.php
-/b5e0972e09e482c4.php
-/ba5174e41df731d8.php
-/ba7ec45efcfa89a3.php
-/baab78e0088a8664.php
-/bcbdd35a8286b150.php
-/bd852d02e12e1520.php
-/bf7893cc2d43c936.php
-/c41508a3857f34c3.php
-/c512076c2057872e.php
-/c57d4dee0da36d49.php
-/c85cabe680e08506.php
-/c8ad9b0ca19c816d.php
-/c8d1769211d0cfb0.php
-/c92a19ea55c5076e.php
-/caae677175cf27ed.php
-/caf30a92b9c4fec2.php
-/d04727a8ed5e33a1.php
-/d130c39575999622.php
-/d27b1d581e3729a6.php
-/d522566a552de05d.php
-/d9e6a8dee399ba79.php
-/da4d23fa59600f9c.php
-/e4ebc4b8c00b7089.php
-/e50a8a413d120466.php
-/e9131e1df8a3fa06.php
-/e9c345fc99a4e67e.php
-/eb132e03b76d10bd.php
-/eba140b7c5f2f228.php
-/ecd46953920f5bde.php
-/ed477c8cc2206093.php
-/ee4bbae3ded73edf.php
-/ef05b005854373ec.php
-/ef0b5c6106fc176f.php
-/f0b7b22cedd39d91.php
-/f242026083c87346.php
-/f2cb651e3e755a0f.php
-/f6a046f8befb95a1.php
-/f71b3857ccea70c5.php
-/fd07ec3137071f71.php
-/fefb4a458e1dc58b.php
 
 # Reference: https://twitter.com/drb_ra/status/1700478808501993895
 
@@ -7052,8 +6903,1815 @@ tpc.cdn-linkedin.info
 
 /b1b0a368.php
 
+# Reference: https://www.virustotal.com/gui/file/367233777383f0ab4848784448b9594191c60d4fc4ca9605a6e8b1223c3a23f8/detection
+
+/PWYPwxGyWukmHWTPppdpWPx.hta
+/PWYPwxGyWukmHWTPppdpWPx.ps1
+
+# Reference: https://www.virustotal.com/gui/file/843c4407865ab4d809f0e3b8a581bab50a330ad98c926d0f10540f451b6611d5/detection
+
+/qmlbspjn.php
+/wymzorxw.php
+
+# Reference: https://twitter.com/malwrhunterteam/status/1706690313975136529
+
+/bazila.hta
+/soda.hta
+
+# Reference: https://github.com/executemalware/Malware-IOCs/blob/main/2023-09-27%20SocGholish_Lumma%20IOCs
+
+/zwmrqqgqnaww.php
+
+# Reference: https://blogs.blackberry.com/en/2023/09/silent-skimmer-online-payment-scraping-campaign-shifts-targets-from-apac-to-nala
+
+/client111.ps1
+/MsMsp.hta
+
+# Reference: https://threatfox.abuse.ch/ioc/1182839/
+
+/ba4d1581aebc19.php
+
+# Reference: https://twitter.com/Merlax_/status/1710072519795896676
+
+/4qo7vrpels1ncni3qv7yobfhvfi85.php
+/5cltm1jkqccs.php
+/caminho-ranger-32.php
+/cff4oi2ucz7wrr62xdcj.php
+/d9sywf.php
+/df7tkq4d8s7q6t6i1tl9.php
+/emfkrktnrrblkk66ywunir89e9gjykhecb.php
+/giqw6dm3gefm6vyefnubumdyivb1cdmcw.php
+/ocji6w6o3w4q2q1the33c.php
+/ql154dcqyonogxnryzwx.php
+/qrc9t4ou.php
+/rhtcgk1qfeczrl8ou27e1jvyyntwyv.php
+/t6h86tu79rpec5y8w4qeglp2yp.php
+/y4koyklbzyupogj3q9f.php
+
+# Reference: https://twitter.com/r3dbU7z/status/1710590656597352560
+
+/BadUsb.ps1
+
+# Reference: https://twitter.com/Gi7w0rm/status/1711030015016505609
+
+/reverseshell.asp
+/reverseshell.aspx
+/reverseshell.bat
+/reverseshell.hta
+/reverseshell.js
+/reverseshell.php
+/reverseshell.ps1
+/reverseshell.vbs
+
+# Reference: https://threatfox.abuse.ch/ioc/1186091/
+
+/bbc7e6ad6814b3.php
+
+# Reference: https://threatfox.abuse.ch/ioc/1183943/
+
+/cdn-js/minlen.php
+/qzwewmrqqgqnaww.php
+
+# Reference: https://twitter.com/r3dbU7z/status/1711882323367457217
+
+/fVvEwlyGLj.wsf
+
+# Reference: https://twitter.com/whichbuffer/status/1712200899869790319
+
+/cisco-CVE-2016-6415.sh
+/CVE-2020-8515.go
+
+# Reference: https://twitter.com/naumovax/status/1712449056352444730
+# Reference: https://www.virustotal.com/gui/file/ec175a771f670fe5c9f7a1756efa74a693254eaaa7a6c5d46fbd9dddbb34e34c/detection
+# Reference: https://www.virustotal.com/gui/file/be46b47e582414db4fe41ca45f4ad180b46ebb101e682a87808b32f2762f7cde/detection
+# Reference: https://www.virustotal.com/gui/file/ce5d3ec4169ff72ee9f164880f8c916ec93c8e409812b464744b91803eceec2c/detection
+
+/Public/jquery/TM/jquery_tm.js
+/Public/jquery/0/jquery.js
+/Public/jquery/1/jquery.js
+/Public/jquery/2/jquery.js
+/Public/jquery/3/jquery.js
+/Public/jquery/4/jquery.js
+/Public/jquery/5/jquery.js
+/Public/jquery/6/jquery.js
+/Public/jquery/7/jquery.js
+/Public/jquery/8/jquery.js
+/Public/jquery/9/jquery.js
+
+# Reference: https://twitter.com/Gi7w0rm/status/1713923723718238600
+
+/pentest.hta
+/pentest.ps1
+
+# Reference: https://threatfox.abuse.ch/ioc/1189584/
+
+/fa87adc3.php
+
+# Reference: https://www.virustotal.com/gui/file/2827bbea71a2c90a1b3ef41239292c4803b78bd3bc18b7ef810d31bd9952d39c/detection
+
+/nenenenenenne.asp
+/nenenenenenne.aspx
+/nenenenenenne.bat
+/nenenenenenne.hta
+/nenenenenenne.js
+/nenenenenenne.php
+/nenenenenenne.ps1
+/nenenenenenne.vbs
+
+# Reference: https://twitter.com/malwrhunterteam/status/1714333541201301894
+
+/msfnt.hta
+/msfnt.ps1
+
+# Reference: https://cert-agid.gov.it/wp-content/uploads/2023/10/screenconnect_ultravnc_19-10-2023.json
+
+/js/exploit.hta
+/js/exploit.ps1
+/exploit.hta
+/exploit.ps1
+
+# Reference: https://twitter.com/malwrhunterteam/status/1715075131175751740
+
+/lass.hta
+/lass.ps1
+/PuttyUac.hta
+/PuttyUac.ps1
+
+# Reference: https://twitter.com/1ZRR4H/status/1716290332885745949
+
+/crypto.hta
+/crypto.ps1
+
+# Reference: https://twitter.com/karol_paciorek/status/1716395306202358156
+
+/evil.ps1
+/evil.py
+/evil.vbs
+/shell.bat
+
+# Reference: https://twitter.com/malwrhunterteam/status/1716517330602033659
+# Reference: https://www.virustotal.com/gui/file/a42303a1baa0b48a95f6eaf6cfba9cef523492d078692cb2a1ab4889337624a6/detection
+
+/exploit/IntelCpHDCPSvc.hta
+/exploit/IntelCpHDCPSvc.ps1
+/IntelCpHDCPSvc.hta
+/IntelCpHDCPSvc.ps1
+
+# Reference: https://www.virustotal.com/gui/file/c81f61e669603b59e0b224cf0eb0f86a4d23b9cf050ca484ae87e22b64709a72/detection
+
+/x/sample.hta
+/sample.hta
+
+# Reference: https://twitter.com/suyog41/status/1716709552543162496
+# Reference: https://www.virustotal.com/gui/file/fa6aa00418f7c7e2c8c840f89acee25dac55e0623e7e5e6641880ffa3dd161ec/detection
+
+/upload/bot.php?id=
+
+# Reference: https://twitter.com/malwrhunterteam/status/1719104612714574309
+# Reference: https://www.virustotal.com/gui/file/c2d3fc535e56c109478a742ec44c635c18845dc2e8fd27f13d1fa155588849f6/detection
+
+/more_page.hta
+/more_page.ps1
+
+# Reference: https://twitter.com/doc_guard/status/1720030244516643274
+# Reference: https://www.virustotal.com/gui/file/aee00173af3d3e8630696a72bd942522543734c26b37afeffbee6d2057285a9a/detection
+
+/HTMLIEbrowserSShistory.vbs
+/HTMLIEcentosBrowserHistory.vbs
+
+# Reference: https://threatfox.abuse.ch/ioc/1198171/
+
+/80c2d1651b23ae.php
+
+# Reference: https://threatfox.abuse.ch/ioc/1232006/
+
+/2c6d40d7cc1ad3.php
+
+# Reference: https://twitter.com/Gi7w0rm/status/1721564409800142986
+
+/open_WinCryptoWallet.ps1
+
+# Reference: https://threatfox.abuse.ch/ioc/1199442/
+
+/61b46e405d2c1c.php
+
+# Reference: https://threatfox.abuse.ch/ioc/1199773/
+
+/2dd77469.php
+
+# Reference: https://twitter.com/Slvlombardo/status/1722207081699414430
+
+/wp-includes/ww-new-rta01/dtrta.php
+/wp-includes/ww-new-rta01/
+/ww-new-rta01/dtrta.php
+/ww-new-rta01/
+
+# Reference: https://twitter.com/malwrhunterteam/status/1723017726120149327
+
+/stager_persist_rat.hta
+/stager_persist_rat.ps1
+
+# Reference: https://threatfox.abuse.ch/ioc/1201607/
+
+/06642940.php
+/30055d25.php
+/396833e4.php
+/3bd148da.php
+/6ea41d52.php
+/720420a0.php
+/8a5ea326.php
+/917abd55.php
+/945f1075.php
+/b1e57687.php
+/e78a6263.php
+
+# Reference: https://twitter.com/suyog41/status/1725500179829436655
+# Reference: https://twitter.com/suyog41/status/1765277622777307566
+# Reference: https://www.virustotal.com/gui/ip-address/52.221.191.170/relations
+# Reference: https://www.virustotal.com/gui/file/dd2b2215977ca4822769a16487e4c22b331ac1fb09791cbde6ee98ae72408137/detection
+
+/jakart/bizposting.php
+/jakart/0305.php
+/jakart/redirect.php?m=
+/singole/shake.php
+/singole/welcome.php
+
+# Reference: https://twitter.com/doc_guard/status/1725564939878756608
+# Reference: https://www.virustotal.com/gui/file/33d3af4cae982d5f0456f3b13d5dcf90506c0262e2900d4ef32a4e01a59628bc/detection
+# Reference: https://www.virustotal.com/gui/file/92343dd76241c60af94b8ccd1d841539dce75f61baf0c8f7eb655244e7c74f5d/detection
+# Reference: https://www.virustotal.com/gui/file/96c62314d9fe9d18efb86551ac411d17de0e9ecda19654355da9b5e80ef91cf0/detection
+
+/not/notoku.php
+/not/notoku.php?urlcode=
+
+# Reference: https://twitter.com/MaxRogers5/status/1727115516509126824
+
+/F8PtZ87fE8dJWqe.hta
+/QfjzVlfbQT0H.hta
+
+# Reference: https://twitter.com/1ZRR4H/status/1727498375946289495
+
+/bot1.py
+/mahoa.py
+
+# Reference: https://twitter.com/malwrhunterteam/status/1728175485853872427
+# Reference: https://www.virustotal.com/gui/file/72829a5407ecd5607613f6351019302ba8c55317f4f3dff1f8280f7c3e7b4897/detection
+
+/a1111647095336d8170db2cb1d9870f9.php
+
+# Reference: https://www.trendmicro.com/en_us/research/23/k/attack-signals-possible-return-of-genesis-market.html
+# Reference: https://www.trendmicro.com/content/dam/trendmicro/global/en/research/23/k/attack-signals-possible-return-of-genesis-market/iocs-attack-signals-possible-return-of-genesis-market.txt
+# Reference: https://otx.alienvault.com/pulse/65609160cddfd2987cac2ef3
+
+/obfs3ip2.bs64
+
+# Reference: https://twitter.com/1ZRR4H/status/1729196411843985530
+
+/passportscan.hta
+
+# Reference: https://twitter.com/alex_lanstein/status/1732485636601319519
+# Reference: https://www.virustotal.com/gui/file/88f64c6021b469a40d3d5bf6ab0f563313caafe5e5ba79854cc31f880636c152/detection
+
+/atoletter2.hta
+/atoletter3.hta
+/atoletter5555.hta
+/atoletter6.hta
+/passportscan.hta
+/scan_058883.hta
+
+# Reference: https://twitter.com/malware_traffic/status/1732437588059832338
+
+/jeyhivxb.php
+/lovtqtyl.php
+
+# Reference: https://www.virustotal.com/gui/file/0c3affef7b7928a44cf5050ed0d38724bf182993db63f786eb926007bd135323/detection
+
+/a051212x/16/load.php
+
+# Reference: https://twitter.com/banthisguy9349/status/1734301694719050200
+
+/coldfusion_rce.py
+/evilrmiservernew.class
+/springboot-jdbc-deserialization-rce.py
+
+# Reference: https://twitter.com/JustWantToQ1/status/1735870555373355048
+
+/ak12sd3.ps1
+/ak12sd3.hta
+/ak12sd3.php
+/ak12sd3.py
+
+# Reference: https://twitter.com/1ZRR4H/status/1736870188480434417
+
+/xccc.hta
+
+# Reference: https://twitter.com/doc_guard/status/1737494486295486473
+# Reference: https://app.docguard.io/4bfc29dff0955937190a085c6114d5019555558ed4a79b4fcb75a18ed28a3252/results/dashboard
+# Reference: https://www.virustotal.com/gui/file/4bfc29dff0955937190a085c6114d5019555558ed4a79b4fcb75a18ed28a3252/detection
+
+/Malware/l.php
+
+# Reference: https://twitter.com/1ZRR4H/status/1737237724644655591
+# Reference: https://www.virustotal.com/gui/file/57561423590dd2334269cd4cdf22ffc267f202ff0e954cb49b73a292b4492172/detection
+# Reference: https://www.virustotal.com/gui/file/0081ec4836a7ecf5b428ba410dc9a86d679cb0d6ef8bb52dc7c8721efc3a4b3d/detection
+
+/agent1.ps1
+/agent3.ps1
+/sd2.ps1
+/sd4.ps1
+
+# Reference: https://twitter.com/malwrhunterteam/status/1738254214353064420
+# Reference: https://www.virustotal.com/gui/file/bd871a2ccd6d7c4f89f9f5087e60cfdcc7ab35b670cfda7ddfd6dbbab8c8560c/detection
+
+/algo.hta
+
+# Reference: https://github.com/executemalware/Malware-IOCs/blob/main/2023-12-22%20AsyncRAT%20IOCs
+
+/eq2c1svfjphtr.php
+
+# Reference: https://twitter.com/V3n0mStrike/status/1740461394250641595
+
+/0312823187.php
+/UD912K0.php
+
+# Reference: https://twitter.com/noexceptcpp/status/1740347631816122829
+
+/cve-2016-1531.sh
+/exploit1337.py
+
+# Reference: https://www.virustotal.com/gui/file/e1974c4099cd21cc0b538bdce94f78165930fbfe1f79e7f0fcca3cd276d39bda/detection
+
+/68ce5b29.php
+
+# Reference: https://twitter.com/Merlax_/status/1743380172768784598
+
+/i2m9jn3wm2.php
+
+# Reference: https://threatfox.abuse.ch/ioc/1228977/
+
+/266ba446.php
+
+# Reference: https://threatfox.abuse.ch/ioc/1230683/
+
+/7493c28b.php
+
+# Reference: https://www.virustotal.com/gui/file/29dcf858f36f68827696a9a3ea1b4a821180569ab297d2f73c740b15832302d3/detection
+
+/vj0li6rpzmhtr.php
+
+# Reference: https://www.virustotal.com/gui/file/ed73c5b9cfcc18b8a58f936dd2cf5009599512654ea159b4ccbc479c208063cb/detection
+
+/b%20kzioe%20f.php
+/zg0p9xfcjshtr.php
+
+# Reference: https://www.virustotal.com/gui/file/dcab1d8358b8402218c1015e4e14820c976f15a8d5a8fa16220383e8e39687da/detection
+
+/6wfu21zpaihtr.php
+/fk0wvgc9tlhtr.php
+
+# Reference: https://www.virustotal.com/gui/file/4e4088a4d66846f55d25539314f58f553e915bb4cc5aa9d29bc3a5693ff5948f/detection
+
+/3fz20plk5shtr.php
+/d%20fziog%20n.php
+
+# Reference: https://www.virustotal.com/gui/file/35ac43ff2e2483ea47f78012970092993ba855bda39563f54e8594e653cad3f9/detection
+# Reference: https://www.virustotal.com/gui/file/1c6ecc97d422cd78a972b71ac22e18bec4b4d58511f9a0ad85ed2de9edcd1c35/detection
+
+/h%20lziof%20k.php
+
+# Reference: https://www.virustotal.com/gui/file/2d56047dc2f18420264cf2d9fa454559a346fba937753aab5865f11e1c82b3b3/detection
+
+/$6i7owtj1sv4h0f8.php
+/6i7owtj1sv4h0f8.php
+/l%20eziof%20h.php
+/no27hufp4ehtr.php
+
+# Reference: https://twitter.com/sicehice/status/1745669226935767065
+
+/cve-2021-4034-poc
+/cve-2021-4034-poc.py
+/exploit_nss_u16.py
+/CVE-2021-3156/
+
+# Reference: https://www.virustotal.com/gui/file/9605968addccaa2323334d501b99ab88cd0b879bc8a2b4c5dc1d27c4d27d5e53/detection
+
+/ddsss.ps1
+
+# Reference: https://threatfox.abuse.ch/browse/malware/win.dcrat/ (# 2024-01-24)
+
+/26048ad8.php
+/359d80f9.php
+/46636ed2.php
+/500ae1b3.php
+/665cf811.php
+/667f720d.php
+/8a45dff2.php
+/91c007b5.php
+/937b6157.php
+/9625229d.php
+/9b366b94.php
+/9bc7b45d.php
+/9cf11b76.php
+/ab3a3bb6.php
+/adcac1e6.php
+/b0f62e5c.php
+/c2b6ff67.php
+/cce379fc.php
+/db059622.php
+/e3e70db1.php
+/e42a6515.php
+/ee48257d.php
+/f1aba1fe.php
+/f50a15cc.php
+/f8a8b9ed.php
+
+# Reference: https://twitter.com/noexceptcpp/status/1751572303295504461
+# Reference: https://twitter.com/noexceptcpp/status/1751589805647917376
+# Reference: https://www.virustotal.com/gui/ip-address/38.148.199.252/relations
+
+imbolexabc.top
+resmakabc.top
+br.resmakabc.top
+ccc.imbolexabc.top
+
+# Reference: https://twitter.com/DmitriyMelikov/status/1752270530126741920
+# Reference: https://www.virustotal.com/gui/ip-address/142.93.233.186/relations
+# Reference: https://tria.ge/240130-mfylaafdbj/behavioral2
+# Reference: https://www.virustotal.com/gui/file/5509ec26758c3c0dcf2bf1b0d7d8600da08cdcfb73cd6b90d46f84ea61c71094/detection
+
+/jMnmopzu
+/track/load.js
+
+# Reference: https://twitter.com/banthisguy9349/status/1752335418253566314
+
+/http_bypass
+
+# Reference: https://twitter.com/banthisguy9349/status/1752420692769865775
+
+/CVE-2023-36664-Ghostscript-command-injection/
+/CVE-2023-4634/
+/exploit-CVE-2023-23752/
+/woo.py
+
+# Reference: https://www.virustotal.com/gui/file/d76af2991fb3bf24fbf34c55942dd304ee1aff30d27cbe9cbb2b96cd860e120c/detection
+
+/strasb/
+/strasb/scripts/
+/strasb/scripts/myscript_1.js
+
+# Reference: https://twitter.com/banthisguy9349/status/1754099584190538104
+
+/api_flooder.bat
+/api_flooder.hta
+/api_flooder.php
+/api_flooder.ps1
+/api_stresser.bat
+/api_stresser.hta
+/api_stresser.php
+/api_stresser.ps1
+/kill_psw.bat
+/kill_psw.hta
+/kill_psw.php
+/kill_psw.ps1
+/rdp_flooder.bat
+/rdp_flooder.hta
+/rdp_flooder.php
+/rdp_flooder.ps1
+
+# Reference: https://twitter.com/banthisguy9349/status/1754134426391359554
+# Reference: https://www.virustotal.com/gui/file/3650667be007a3733dc935f0978ae5964e6dac65728b31d44e6b4d92c5220042/detection
+
+/1pdf.hta
+/1pdf.ps1
+
+# Reference: https://twitter.com/banthisguy9349/status/1754140240652939341
+
+/clear_bots.php
+/clear_bots_database_info.php
+/clear_dead_bots.php
+/clear_dirty_bots.php
+/clear_offline_bots.php
+/clear_online_bots.php
+/get_bots_by_device.php
+/get_bots_by_status.php
+/get_bots_by_type.php
+/get_bots_countries.php
+/get_bots_database_info.php
+
+# Reference: https://twitter.com/k3yp0d/status/1754380225792577647
+# Reference: https://www.virustotal.com/gui/file/499528fb822e6cf086e98d9e27067f939ecbf0a3791f701a0a6f9a44ba8864ea/detection
+
+/opituvannya.hta
+/opituvannya.ps1
+
+# Reference: https://iamdeadlyz.gitbook.io/malware-research/february-2024/outfoxing-a-malicious-pdf-an-attackers-attempt-to-deliver-a-stealc-infostealer
+
+/officeupdate.hta
+/officeupdate.ps1
+
+# Reference: https://twitter.com/karol_paciorek/status/1754472675655774703
+
+/asdf.hta
+/asdf.ps1
+/qwerty.hta
+/qwertyj1.hta
+/telly.hta
+/telly.ps1
+
+# Reference: https://twitter.com/Joseliyo_Jstnk/status/1754830872031744020
+# Reference: https://www.virustotal.com/gui/file/3761fb4c5b30d06501fe6688019ace6c899bdfc278049ddd91b96e0efe0d8830/detection
+# Reference: https://www.virustotal.com/gui/file/b9c763ed1cd4cabc6faa0fece7738a941de1d65163d05480c9790217d931c7c8/detection
+
+/60WuOcgFX.hta
+/60WuOcgFX.ps1
+
+# Reference: https://twitter.com/banthisguy9349/status/1756606597667709276
+
+/redis-rogue-server.py
+
+# Reference: https://twitter.com/karol_paciorek/status/1757353098035511512
+# Reference: https://tria.ge/240213-mgymnsfe3z/behavioral1
+# Reference: https://tria.ge/240213-mapfesfc71/behavioral1
+
+/lins2.ps1
+/raw_stageless_8000.hta
+/s_8000.hta
+
+# Reference: https://twitter.com/banthisguy9349/status/1755838447141401064
+
+/BS10534901.php
+
+# Reference: https://twitter.com/banthisguy9349/status/1757464973867917424
+# Reference: https://pastebin.com/R6v4TUX1
+
+/ransomeware/crypto.html
+/ransomeware/ransomeware.html
+/ransomeware/
+/siilencedantibot!
+
+# Reference: https://twitter.com/unmaskparasites/status/1765144260729618782
+# Reference: https://blog.sucuri.net/2024/02/web3-crypto-malware-angel-drainer.html
+# Reference: https://blog.sucuri.net/2024/03/from-web3-drainer-to-distributed-wordpress-brute-force-attack.html
+
+/cachingjs/turboturbo.js
+/turboturbo.js
+
+# Reference: https://twitter.com/banthisguy9349/status/1762883187699556388
+
+/CVE-2023-4911-main/
+/SpigotRCE-1.0-SNAPSHOT.jar
+
+# Reference: https://twitter.com/unmaskparasites/status/1763325433427468602
+# Reference: https://urlscan.io/search/#filename%3A%22static%2Fdefault%2Fjs%2Fdelighters.js%22
+
+acasellavs.com
+acenicesm.life
+adminicesm.life
+ainiloveet.life
+akalovevs.live
+aklikeet.xyz
+alegoodar.xyz
+aloeloveet.life
+apkafreeov.com
+aresellsk.live
+artulikea.life
+aslsalesov.live
+avgoodsmk.xyz
+avsfreeov.life
+avsupermk.xyz
+aylikeet.life
+azfreemk.live
+bakubestvs.live
+ballfreeov.life
+banclovesm.xyz
+bealikesm.live
+bearsellsk.xyz
+beesellsov.life
+bengoodsmk.xyz
+bestandssm.xyz
+bestbabasm.com
+bestbibear.xyz
+bestbidzmk.xyz
+bestbobomk.life
+bestcgsvs.life
+bestdosesk.live
+bestecarsk.live
+besteffsm.live
+bestenaar.life
+bestepro.xyz
+bestfotoar.life
+bestfsbo.live
+bestgefesk.live
+bestgmesmk.life
+bestgunet.xyz
+bestinucmk.com
+bestkod.life
+bestlessvs.live
+bestlet.xyz
+bestletsm.xyz
+bestmmmsm.com
+bestmmosov.live
+bestnavosk.live
+bestofusk.life
+bestonacar.life
+bestongsm.live
+bestoopset.live
+bestoprov.life
+bestpdfvs.life
+bestpramov.live
+bestrootet.live
+bestshoar.live
+bestsolu.live
+bestsucksm.life
+besttermsm.xyz
+bestxcamet.xyz
+bestxpovs.xyz
+bestzalet.life
+biofreear.live
+bmsalemk.xyz
+bmxlovesk.xyz
+bostbest.life
+botsuperar.com
+btlovear.live
+capbestar.live
+capebest.xyz
+cartsaleet.life
+cassellssk.xyz
+cdrsalesk.life
+cenicesk.life
+chipgoodmk.life
+clovebsk.xyz
+cmgoodov.live
+cnglovesvs.com
+crysalesar.xyz
+cubestixmk.xyz
+cufflovesm.live
+dabestsk.live
+dabfreesm.life
+dassalessm.xyz
+ddosbestmk.live
+delikesar.life
+demgoodsov.live
+diebestear.life
+digifreeov.life
+dipsale.xyz
+domelovesm.xyz
+dotsfreeet.life
+dovelikesm.com
+drpfreesk.live
+dtssalevs.life
+dvdssalear.com
+eatslovesk.com
+ecloversvs.live
+efreesm.live
+eggsalea.live
+elelovesk.xyz
+ellunicear.xyz
+emesalesmk.life
+epikloveov.life
+erosella.life
+esalesar.life
+esupermk.live
+euwloveov.live
+examfreevs.com
+exloversvs.life
+eyelikedsk.xyz
+famfreesm.live
+farsuperov.life
+fartfreemk.com
+fastbestsm.live
+fastnicear.live
+fgoodsm.life
+fillsalear.life
+filove.live
+finsellet.life
+flylovesk.xyz
+fpsalesov.life
+freeaccsk.life
+freeacnevs.xyz
+freebows.xyz
+freeburnsk.life
+freebzssk.com
+freecareet.life
+freeconsov.live
+freecostvs.live
+freecreet.life
+freedleysm.live
+freeduckvs.life
+freefiatmk.xyz
+freegosvs.live
+freehearvs.life
+freejumpsk.xyz
+freekaaet.xyz
+freelianvs.xyz
+freenvvs.life
+freepeakar.live
+freepeasmk.xyz
+freepiamk.xyz
+freepof.xyz
+freepreeet.xyz
+freeref.xyz
+freerpgset.live
+freesmet.life
+freesupov.live
+freetlymk.xyz
+freeucsm.xyz
+freewebdsm.life
+freezupet.xyz
+frpfreeet.com
+ftlsalesvs.xyz
+fugoodvs.live
+fundsalemk.live
+gagebestar.live
+gamelikeov.live
+germlikear.live
+gifbestsm.life
+gisfreeet.live
+glloverov.xyz
+gogosale.live
+gogosalevs.life
+goodbasssm.xyz
+goodbatset.live
+goodbiaovs.xyz
+goodbisvs.xyz
+goodbyemk.xyz
+goodcexet.life
+gooddxmk.life
+goodfangsm.life
+goodfrogsk.life
+goodgbsm.life
+goodgifset.life
+goodgifvs.life
+goodglysk.xyz
+goodgrad.live
+goodgradar.xyz
+goodhouret.xyz
+goodhrissk.life
+goodjacket.live
+goodkeenmk.life
+goodkret.live
+goodmeowsk.life
+goodmima.sa.com
+goodminesk.xyz
+goodmoocsk.life
+goodopemk.live
+goodplugsk.live
+goodrealsk.live
+goodromesm.xyz
+goodruinsk.live
+goodrusk.com
+goodrwov.live
+goodtopssm.life
+goodtr.xyz
+goodtrov.live
+goodtsar.xyz
+goodtypevs.life
+goodvinnar.xyz
+goodytvsm.xyz
+goodzhaosm.live
+goodzoneov.live
+goolikevs.live
+gorgoodsmk.xyz
+gowsalesvs.live
+halffreesk.live
+haosaleset.xyz
+hatfreesk.xyz
+hatsalemk.live
+hcbestsm.live
+hghsaleet.live
+hllovetvet.xyz
+hoaxfreesm.live
+hrloversmk.life
+hugebestvs.live
+hwlovemk.life
+hyposaleov.com
+hzgoodar.live
+ibeelovevs.xyz
+icafreevs.live
+idnsalear.xyz
+idnsaleset.life
+ieatfreesk.live
+ifreebsd.ru.com
+ifwelovevs.xyz
+ilikehksm.life
+ilikethcar.xyz
+iloveedov.xyz
+ilovenisvs.live
+ilovepaket.com
+imagbest.xyz
+imfreezeov.live
+imylovesm.live
+infogoodet.live
+ingsellvs.life
+inknicear.life
+innolikesm.life
+inslikesk.live
+instlovemk.live
+iqlovevs.live
+irielovesk.live
+jesellear.life
+jlgoodmk.life
+jlgsaleset.xyz
+johnsaleov.life
+jufreesk.xyz
+knowbestet.life
+kodaloveov.com
+langbestvs.live
+leiuloveov.life
+lgbtbestmk.xyz
+lgoodov.xyz
+likeaevs.life
+likebillsk.life
+likeconsk.xyz
+likehersar.live
+likekhao.ru.com
+likemoissm.com
+likemoonvs.live
+likeroommk.live
+liketotomk.live
+likeubsk.life
+likewaveov.life
+likewebov.life
+ljcsalesar.live
+logfreevs.live
+looksalein.life
+loopgoodar.live
+loveardsk.life
+loveasmeov.live
+lovecagesm.xyz
+lovecitear.live
+lovedosmk.xyz
+lovedytlet.xyz
+loveerysm.xyz
+lovegolfmk.live
+lovehereov.xyz
+lovehexsk.xyz
+lovehowrp.xyz
+loveishqov.life
+loveism.life
+lovekinka.xyz
+lovekizoar.live
+lovelygomk.live
+lovemalamk.live
+lovemaltmk.life
+lovemesk.live
+lovemon.life
+lovemygpov.xyz
+lovenjoyov.live
+loveodorsk.live
+loveovet.life
+lovepakiar.life
+lovepineov.life
+loveplotsk.xyz
+loveplymk.life
+lovescacar.live
+lovesignsm.live
+lovesmsov.life
+lovesovs.live
+lovexaa.live
+loveyardov.live
+loveyardov.xyz
+lsusalessk.xyz
+lubenicevs.xyz
+lumiloveet.life
+lyloverset.live
+madsalesm.live
+malibestsk.xyz
+mazalovesk.xyz
+mbrsalessm.life
+mechsellmk.live
+melovesm.life
+metalikeov.live
+mfreea.life
+milklovesm.xyz
+minisella.xyz
+mirasellsk.life
+misellosk.com
+miyabestvs.life
+mlmlovevs.live
+mmlovear.live
+mmlovevret.xyz
+mmmlovear.xyz
+modabestet.xyz
+modasalea.live
+mogloveet.xyz
+moodfreea.life
+morfreeov.xyz
+mtgoodsmk.xyz
+mumlovesvs.live
+mybestbyar.live
+mybestemk.live
+myloveinsm.life
+nasalexet.life
+ncsaleset.life
+newbestsm.live
+nfsalear.life
+niceadv.live
+nicediscsm.life
+niceheshar.life
+nicehhsk.life
+nicelimeov.live
+niceppsk.life
+niceredov.life
+niceregar.live
+niceringvs.life
+nicesoulet.live
+nicestersm.live
+niceswapet.xyz
+nicetempvs.life
+nicetisk.live
+nicetixsm.xyz
+nicetossmk.life
+nicetreeov.live
+nicetruevs.life
+niceunitar.xyz
+nicevoteet.live
+njlovemk.live
+njoylovevs.xyz
+nloversar.life
+novonicesk.life
+nowsellssvj.life
+nublovevs.live
+offlikerar.live
+ofgoodssk.live
+ogmfreeet.live
+oilsellmk.life
+okglovesm.live
+omgfreeet.live
+oralikear.life
+outgoodvs.live
+paclovesk.life
+padsalessm.xyz
+paniceyesm.life
+paxsaleset.live
+pcssalear.xyz
+pdxlovevs.live
+pentlovear.life
+pillfreesm.life
+pixelovear.xyz
+plrfreear.life
+popfreemk.xyz
+porsellamk.xyz
+posbesta.live
+posbestov.live
+pplsalesmk.life
+promlikesm.live
+pumplikesk.life
+qrlovesk.life
+racesaleet.xyz
+reusellcvs.life
+rgoodsar.xyz
+ridelikesk.xyz
+rodsalessm.live
+rosaleneov.life
+rosalexsm.life
+rqsales.live
+russalesov.com
+sakulovear.live
+saleavtomk.life
+salebabymk.xyz
+salebootvs.live
+saleemar.xyz
+salefixssk.com
+salehighar.life
+salehomeov.life
+salelesov.life
+salembgcet.live
+salemodaet.xyz
+salemoonar.life
+salenotear.xyz
+salepondet.life
+salerisksm.live
+saleroivs.live
+salersov.xyz
+salerunsvs.life
+salesarsm.xyz
+salesbuysk.xyz
+salesdxbov.life
+saleseaov.xyz
+saleseco.life
+saleshowvs.live
+salesmksk.live
+salestelov.live
+salesticar.xyz
+salethatsm.life
+salewireov.xyz
+salewskiet.live
+samgoodsmk.xyz
+sbestylesk.live
+scanfreear.live
+scgoodsov.xyz
+sellbanksm.xyz
+sellbaosk.com
+sellbuxvs.live
+sellerbdsm.life
+sellerrsk.com
+sellfuelmk.xyz
+sellhdov.xyz
+selliliar.life
+sellmamask.life
+sellmostmk.xyz
+sellmydov.live
+sellpalmvs.live
+sellrankov.life
+sellsdet.life
+sellsunavs.xyz
+selluaeov.life
+sellvavs.life
+shangoodsm.live
+shrifreevs.live
+sloveyouar.xyz
+slssalessm.life
+smexsellsk.life
+smsloverar.life
+smssupervs.live
+snssalesar.life
+sockbestsm.live
+sofabestmk.com
+soofreemk.life
+soogoodsk.life
+spgoodssk.xyz
+srvfreear.live
+statloveov.live
+stsellov.xyz
+sublikeet.live
+suitlikesk.life
+superacmk.life
+superanoov.life
+superbelsm.life
+superbie.life
+superbloov.life
+superbubar.live
+superdeyvs.xyz
+superera.xyz
+superfasov.xyz
+superfemk.life
+superfret.live
+superftpsm.life
+supergccet.live
+supergtrmk.live
+superhaet.live
+superhanov.life
+superhitvs.live
+superibosk.live
+superizesm.xyz
+superjbar.life
+superliumk.live
+supermgitos.live
+superminar.xyz
+supernnsk.life
+superoxy.life
+superpdxmk.live
+superplrar.life
+superpocar.live
+superpremk.com
+superrask.xyz
+superrub.live
+supersfmk.life
+supersqlar.life
+superssset.live
+supertafet.life
+superumar.live
+superusdet.xyz
+supervicet.live
+sursupervs.life
+taxsupermk.life
+teknicenvs.com
+thelikee.life
+thgoodsov.live
+tiefreemk.live
+tiesalesm.live
+tisuperet.xyz
+tnlikevs.life
+toklikersm.life
+tolovevs.life
+toolfreesm.life
+tortnicesk.live
+totefree.fun
+toylove.xyz
+trapfreesk.live
+tribestrmk.com
+trifreesm.xyz
+tripnicesm.life
+trybestsm.live
+ttsellvs.xyz
+tuanbestsm.live
+tunlovesk.xyz
+twcsalesmk.xyz
+uarelove.live
+ublegoodvs.life
+uisfreeet.xyz
+ulikeear.life
+unilove.live
+unlikeitmk.life
+usalover.life
+usalovermk.live
+usebestov.live
+userfreeov.xyz
+varnicevs.life
+veniceogar.xyz
+venicerset.life
+veroloveov.live
+vibefreeov.xyz
+viofreear.xyz
+vipsellsmk.live
+vivanicemk.live
+vpsaleov.xyz
+vrsellervs.life
+vsaleet.life
+wanglikear.live
+wangoodssm.life
+wcfreeov.life
+weloveroet.life
+weloveusvs.live
+wirefreeet.life
+wjsalesov.life
+wlanfreeet.life
+woofreeet.xyz
+wrlovesk.life
+wylovear.life
+xiesaleov.live
+xrplovemk.life
+xsuperet.xyz
+ybestbuyar.xyz
+yourfreesm.xyz
+yugeloveet.life
+zhisalesm.life
+zjgoodsk.life
+zqbestvs.live
+
+# Reference: https://twitter.com/1ZRR4H/status/1763433453876335093
+
+/c_payload.c
+/c_payload_x64.c
+/java_payload.java
+/java_payload_x64.java
+/python_payload.py
+/python_payload_x64.py
+
+# Reference: https://twitter.com/noexceptcpp/status/1765438678967410998
+# Reference: https://app.any.run/tasks/ccb87bc3-8d0c-4909-ad0b-ce48abc36378/
+
+/svchost_80_1.ps1
+/svchost_80_2.ps1
+
+# Reference: https://www.virustotal.com/gui/domain/cachline.com/relations
+
+cachline.com
+
+# Reference: https://twitter.com/sdcyberresearch/status/1757023351510364666
+
+/js/f336fcf927bc87fba9a43a5c5e8cbc74.js
+/f336fcf927bc87fba9a43a5c5e8cbc74.js
+
+# Reference: https://twitter.com/banthisguy9349/status/1769755483768803650
+
+/mimi.ps1
+
+# Reference: https://twitter.com/banthisguy9349/status/1769653638459220391
+
+/cve-2014-4014.c
+/h00lyshit.c
+/poc_v0.c
+
+# Reference: https://urlscan.io/search/#filename:%22unam_lib.js%22
+
+/unam_lib.js
+
+# Reference: https://twitter.com/banthisguy9349/status/1770831512788705496
+
+/winPEAS.ps1
+
+# Reference: https://twitter.com/threatcat_ch/status/1772714315402912077
+
+/trinity-injector-script.js
+
+# Reference: https://twitter.com/KesaGataMe0/status/1775700950692605994
+
+/?guhqvjbk
+
+# Reference: https://www.virustotal.com/gui/ip-address/194.116.214.225/relations
+# Reference: https://www.virustotal.com/gui/file/98f6ecc60e016311511ce920220598b33eb9671e7c71254e76d638d0f2a45883/detection
+
+/kuskus.hta
+/kuskus.ps1
+
+# Reference: https://twitter.com/noexceptcpp/status/1778024688066638287
+
+/0Z0EQyFSl1.php
+/C0MGGGwszj.php
+/FLNvwznqBG.php
+/GYf484uMAb.php
+/Hbrugz8LLO.php
+/JL3Li0Iqxh.php
+/bHKluvxJrs.php
+/cEkRoGfySO.php
+/fZsExq7lgF.php
+/glkf7qXdGs.php
+/jq6hd.php
+/kzU3Zt6X5j.php
+/u3jy8V3B1B.php
+
+# Reference: https://twitter.com/RacWatchin8872/status/1778393784809595092
+
+/shell_reverse_tcp.bin
+/shell_reverse_tcp.hta
+/shell_reverse_tcp.ps1
+/shell_reverse_tcp.py
+/shell_reverse_tcp.sh
+
+# Reference: https://twitter.com/doc_guard/status/1781325713951314119
+# Reference: https://www.virustotal.com/gui/file/b8288968633bcfa46dc1cf1ab6c5b248e6be020184991e82ba8db56676b2e0cf/detection
+
+/basterlord.hta
+
+# Reference: https://twitter.com/malwrhunterteam/status/1782277290363174988
+
+/Cqlqb.hta
+
+# Reference: https://twitter.com/banthisguy9349/status/1782402749805527142
+
+/exploitw.py
+
+# Reference: https://twitter.com/banthisguy9349/status/1782401923133354148
+
+/backgroud_attack.php
+
+# Reference: https://twitter.com/doc_guard/status/1782401510350954620
+# Reference: https://app.docguard.io/ed4149d5ac4b15e22b9f240e75638ea3c4da01a021d30ed2d062919159c6a7c9/results/dashboard
+
+/nonendowmentaGen.ps1
+/scragglingiJsW.ps1
+
+# Reference: https://twitter.com/doc_guard/status/1784961099219018073
+# Reference: https://app.docguard.io/9afa5a1e1448e7469fe0a625ff715e1bff8f7c407d45644445a35b6885d79271/463e66dc-bb30-4273-a94b-b42b6d6729f4/0/results/dashboard
+
+/ifsdjshtx/zxxhttezsnt0pl.php
+/zxxhttezsnt0pl.php
+
+# Reference: https://twitter.com/Slvlombardo/status/1785232547623927932
+
+/uutyrtrreer/tttggg.php
+/tttggg.php
+
+# Reference: https://twitter.com/JustWantToQ1/status/1787075115823337564
+
+/Anonmy.cmd
+/Anonmy.hta
+/Anonmy.ps1
+
+# Reference: https://twitter.com/Slvlombardo/status/1787524670956146891
+
+/unZIPpeRn.php
+
+# Reference: https://twitter.com/ShanHolo/status/1787551650493747688
+
+/Shhhloader.py
+
+# Reference: https://www.virustotal.com/gui/file/32c83602b4f08e77ad0d0461f7eb6f800dfae256ec02371d73325d1d551c76f3/detection
+
+/api6231223321213.js
+
+# Reference: https://x.com/banthisguy9349/status/1791853395352977877
+
+/INDIExploit
+
+# Reference: https://x.com/suyog41/status/1793935723961143625
+# Reference: https://www.virustotal.com/gui/file/d2809e3e60e5d9671be8644750ad1b385aaa6b4ff01fef8fc594d81c69275a33/detection
+# Reference: https://www.virustotal.com/gui/file/7b1b332c653d62effffffd27a8da5bf78c0a5e5c1fb04191e0943333671c46c3/detection
+
+/doomsday.ps1
+
+# Reference: https://x.com/lontze7/status/1796823844335890633
+
+/20231027094801.php
+
+# Reference: https://x.com/malwrhunterteam/status/1797633812945682533
+
+/hfyr7wsb3wazm.html
+
+# Reference: https://x.com/malwrhunterteam/status/1798270656410526004
+
+/bdch8mwsja5azq.html
+
+# Reference: https://x.com/Slvlombardo/status/1800749773135475052
+
+/hhhmeuuw/rtalvl.php
+
+# Reference: https://blog.sucuri.net/2024/06/socgholish-malware.html
+
+/9659650c81ce1b984c58.js
+
+# Reference: https://x.com/doc_guard/status/1804498032685170835
+# Reference: https://www.virustotal.com/gui/file/07d66d5f867572bfbed2128def7e1aa43792de09f3d709c77241f0950295f579/detection
+
+/cjuhwvko.php
+/dwcetsuu.php
+/orvx-avjyyr.php
+/pfiigphc.php
+/vlspgbsfjo.php
+
+# Reference: https://x.com/malwareforme/status/1809257799387361422
+# Reference: https://www.virustotal.com/gui/file/45d3063b41fc1d6c8387600e49b6da5c8ec9909ef3636d539ca2a10aec7f3c59/detection
+
+/CertRead.hta
+
+# Reference: https://www.virustotal.com/gui/file/8decdfe5e000475d09f077a3d5b06843f1138e307141e0d0433526ae7037731d/detection
+
+/0day.asp
+/0day.aspx
+/0day.bat
+/0day.hta
+/0day.ps1
+/0day.py
+/0day.vbs
+/0day.wsf
+/0day.xsl
+
+# Reference: https://x.com/malwrhunterteam/status/1810305014088282568
+# Reference: https://www.virustotal.com/gui/file/23355e6bb3fb1b0e389e7ec95bacf5f205cfb4e1be6f427aabd9fcba0f603a59/detection
+# Reference: https://www.virustotal.com/gui/file/47b12bc3756bf1c2339578eef98a12eb68f142f601ebee25eacca7d6ef6dc349/detection
+# Reference: https://www.virustotal.com/gui/file/ffac703f236c11563dec94b9d9dcc0f1bb37a814f98400e62512a2df5e596ec6/detection
+# Reference: https://www.virustotal.com/gui/file/fbc8bed8f5a9b1c73a165119d5f1735f5f06562b787f50f343b04e1bc8f0b2d4/detection
+# Reference: https://www.virustotal.com/gui/file/e314b233b41a5688a4e43f876ccb10718351d3f396b4df623b4ebb0a093be7e0/detection
+# Reference: https://www.virustotal.com/gui/file/d938cb8accbc51046158350155f1af9248fc8459ef2b92be752b93dae77504a6/detection
+
+/hooks/och?id=
+/hooks/xxx?id=
+
+# Reference: https://www.virustotal.com/gui/file/0ca46fb10da403fd20317cbd55434388275c7e9abba697ca4c9916f241ff53f6/detection
+
+/powershell_attack.asp
+/powershell_attack.aspx
+/powershell_attack.bat
+/powershell_attack.hta
+/powershell_attack.ps1
+/powershell_attack.py
+/powershell_attack.txt
+/powershell_attack.vbs
+/powershell_attack.wsf
+/powershell_attack.xsl
+
+# Reference: https://x.com/ShanHolo/status/1813149888001011754
+
+/d3l.ps1
+
+# Reference: https://x.com/karol_paciorek/status/1813856475670024690
+
+/evil.dtd
+
+# Reference: https://x.com/1ZRR4H/status/1814413341328322966
+
+/20240416.hta
+
+# Reference: https://x.com/banthisguy9349/status/1814925887906664718
+
+/arc1b7jcFClaP
+/arcUObduhEO
+/arcUObduhRu
+/systray.ps1
+
+# Reference: https://x.com/RacWatchin8872/status/1815338996005777590
+
+/UIDEIEEN.hta
+
+# Reference: https://cert.gov.ua/article/6280129
+
+/RemoteAssistanceSvc.hta
+
+# Reference: https://www.virustotal.com/gui/ip-address/1.15.44.211/relations
+
+/m3wtw0.xml
+
+# Reference: https://x.com/500mk500/status/1819325319565758518
+
+/xss.hta
+/xss.js
+/xss.xspf
+
+# Reference: https://x.com/Huntio/status/1820797152085582112
+# Reference: https://moonlock.com/loom-macos-stealer
+
+/yvfiubhferwewf/process_l00m.php
+/yvfiubhferwewf/
+
+# Reference: https://x.com/9823f_/status/1820807344638279761
+# Reference: https://urlscan.io/search/#filename%3A%22php_en-e372bb40.js%22
+
+/php_en-e372bb40.js
+
+# Reference: https://x.com/lontze7/status/1821042477022822834
+
+/262f6e0.php
+/2f20376.php
+/5edec54.php
+
+# Reference: https://x.com/JAMESWT_MHT/status/1821171522074984552
+
+/97075184016hjaksjxjzwc
+/jU8OTI-qnvhjeIB0-W7q7EvR4-dacb47a/index.html
+/jU8OTI-qnvhjeIB0-W7q7EvR4-dacb47a/
+
+# Reference: https://www.joesandbox.com/analysis/1393952#iocs
+# Reference: https://tria.ge/240617-vg68tazhkm/behavioral2
+
+/gAySB.php
+/gAySB.php?cnv_id=
+
+# Reference: https://x.com/malwrhunterteam/status/1828028438407479788
+# Reference: https://www.virustotal.com/gui/file/0077647aa98f096591f70bbd3f1a0364b56c5e39f68ed85509b28a31b2d4f869/detection
+
+/0day.asp
+/0day.aspx
+/0day.bat
+/0day.hta
+/0day.js
+/0day.ps1
+/0day.py
+/0day.txt
+/0day.vbs
+/0day.wsf
+/0day.xsl
+
+# Reference: https://x.com/banthisguy9349/status/1828499255184552253
+
+/Payload.kt
+/ViewInjectionsad.kt
+
+# Reference: https://www.virustotal.com/gui/file/faf05cc7a617e771f061ed131429ccacfe9039634cbd0259c455c3e8baa6a129/detection
+
+gatetodisplaycontent.com
+/3d336374d870f17c9375aee0e6779e7b/invoke.js
+
+# Reference: https://x.com/0Dayhta/status/1828461255784378562
+
+/cd_v2_x64.xsl
+/cd_v2_x86.xsl
+/cd_v4_x64.xsl
+/cd_v4_x86.xsl
+
+# Reference: https://www.virustotal.com/gui/file/828616945d46a2c161c17d88f0f8dd0b890107ec200551ad9b9836d71833fb6a/detection
+
+/downloadfaxfile28071991.php
+
+# Refernce: https://x.com/StrikeReadyLabs/status/1830774821795274784
+
+/Filex1.hta
+/Filexxx.hta
+/Filexxx2.hta
+/KKKKKKK1.hta
+/x1.hta
+/xxx.hta
+/xxx2.hta
+
+# Reference: https://www.virustotal.com/gui/file/8d31ed88202e42a456cef92be1da6e91ee89f763b12e9cddca525453a8d86d6c/detection
+
+/elonkat/jyujuytyt.php
+/jyujuytyt.php
+
+# Reference: https://x.com/kddx0178318/status/1834200990565773334
+# Reference: https://www.virustotal.com/gui/file/48e74d11c58e4942e394f3f16ffe7446c73884b0a5df0fc89c7f2b94a43f4152/detection
+
+/30f5d97a11d32e80.php
+
+# Reference: https://x.com/RacWatchin8872/status/1836777407996448978
+
+/reverse-shell.ps1
+
+# Reference: https://x.com/banthisguy9349/status/1838597449910251943
+# Reference: https://www.joesandbox.com/analysis/1477772/0/html
+
+/internet_put222.php?id=
+/k_get.php?bot=
+/k_get_new.php?bot=
+/k_put_new.php?id=
+/o_get.php?uid=
+
+# Reference: https://x.com/Gi7w0rm/status/1838827132174115212
+
+/PhishMailer.py
+
+# Reference: https://x.com/banthisguy9349/status/1839937406969020433
+
+/ips_dk0.ps1
+/ips_reverse_https_dk0.ps1
+
+# Reference: https://x.com/banthisguy9349/status/1839929495718932634
+
+/141174.php
+/80gm76k.php
+/adxkylg.php
+/qgadvr0.php
+/xbhde.php
+/yrw2qif.php
+
+# Reference: https://www.virustotal.com/gui/file/d472c895106cfebcb6eea8701416aed96b9770c256432ee7ee7a9b8a60a6d254/detection
+
+/netbooknewthingsforupdnow.hta
+
+# Reference: https://www.virustotal.com/gui/file/5f7ede06fa8da808f891e29fcfc533fcab3f7e9bc02ad68d0e5b24fe006fcbe5/detection
+
+/IEnetbookupdation.hta
+
+# Reference: https://x.com/banthisguy9349/status/1842246259765088421
+
+/data/1x_stc.js
+/1x_stc.js
+
+# Reference: https://sansec.io/research/cosmicsting
+
+/?exploited=
+
+# Reference: https://x.com/banthisguy9349/status/1842944347417014304
+
+/nmap-payloads
+/payload.xml
+/payload1.txt
+/payload2.txt
+/payload3.txt
+/payload4.txt
+/payload5.txt
+/payload6.txt
+/payload7.txt
+/payload8.txt
+/payload9.txt
+/payload_arc.hta
+/payload_arm.hta
+/payload_arm4.hta
+/payload_arm4l.hta
+/payload_arm4t.hta
+/payload_arm4tl.hta
+/payload_arm4tll.hta
+/payload_arm5.hta
+/payload_arm5l.hta
+/payload_arm5n.hta
+/payload_arm6.hta
+/payload_arm64.hta
+/payload_arm6l.hta
+/payload_arm7.hta
+/payload_arm7l.hta
+/payload_arm8.hta
+/payload_armv4.hta
+/payload_armv4l.hta
+/payload_armv5l.hta
+/payload_armv6.hta
+/payload_armv61.hta
+/payload_armv6l.hta
+/payload_armv7l.hta
+/payload_dbg.hta
+/payload_exploit.hta
+/payload_i4.hta
+/payload_i486.hta
+/payload_i586.hta
+/payload_i6.hta
+/payload_i686.hta
+/payload_kill.hta
+/payload_m68.hta
+/payload_m68k.hta
+/payload_mips.hta
+/payload_mips64.hta
+/payload_mipseb.hta
+/payload_mipsel.hta
+/payload_mpsl.hta
+/payload_pcc.hta
+/payload_powerpc.hta
+/payload_powerpc-440fp.hta
+/payload_powerppc.hta
+/payload_ppc.hta
+/payload_ppc2.hta
+/payload_ppc440.hta
+/payload_ppc440fp.hta
+/payload_root.hta
+/payload_root32.hta
+/payload_sh.hta
+/payload_sh4.hta
+/payload_sparc.hta
+/payload_spc.hta
+/payload_ssh4.hta
+/payload_x32.hta
+/payload_x64.hta
+/payload_x86.hta
+/payload_x86_32.hta
+/payload_x86_64.hta
+/payload_arc.ps1
+/payload_arm.ps1
+/payload_arm4.ps1
+/payload_arm4l.ps1
+/payload_arm4t.ps1
+/payload_arm4tl.ps1
+/payload_arm4tll.ps1
+/payload_arm5.ps1
+/payload_arm5l.ps1
+/payload_arm5n.ps1
+/payload_arm6.ps1
+/payload_arm64.ps1
+/payload_arm6l.ps1
+/payload_arm7.ps1
+/payload_arm7l.ps1
+/payload_arm8.ps1
+/payload_armv4.ps1
+/payload_armv4l.ps1
+/payload_armv5l.ps1
+/payload_armv6.ps1
+/payload_armv61.ps1
+/payload_armv6l.ps1
+/payload_armv7l.ps1
+/payload_dbg.ps1
+/payload_exploit.ps1
+/payload_i4.ps1
+/payload_i486.ps1
+/payload_i586.ps1
+/payload_i6.ps1
+/payload_i686.ps1
+/payload_kill.ps1
+/payload_m68.ps1
+/payload_m68k.ps1
+/payload_mips.ps1
+/payload_mips64.ps1
+/payload_mipseb.ps1
+/payload_mipsel.ps1
+/payload_mpsl.ps1
+/payload_pcc.ps1
+/payload_powerpc.ps1
+/payload_powerpc-440fp.ps1
+/payload_powerppc.ps1
+/payload_ppc.ps1
+/payload_ppc2.ps1
+/payload_ppc440.ps1
+/payload_ppc440fp.ps1
+/payload_root.ps1
+/payload_root32.ps1
+/payload_sh.ps1
+/payload_sh4.ps1
+/payload_sparc.ps1
+/payload_spc.ps1
+/payload_ssh4.ps1
+/payload_x32.ps1
+/payload_x64.ps1
+/payload_x86.ps1
+/payload_x86_32.ps1
+/payload_x86_64.ps1
+/yaml-payload11.jar
+/yaml-payload111.jar
+/yaml-payload12.jar
+/yaml-payload2.jar
+/yaml-payload3.jar
+/yaml-payload4.jar
+/yaml-payload5.jar
+/yaml-payload6.jar
+/yaml-payload99.jar
+/yaml-payload.jar
+
+# Reference: https://x.com/kddx0178318/status/1843659566955016274
+
+/!NB12538z/i40vy0n.php
+/!NB12538z/
+/i40vy0n.php
+
+# Reference: https://x.com/banthisguy9349/status/1847175329120460936
+
+/btc_eng.hta
+/btc_pt.hta
+
+# Reference: https://urlscan.io/search/#page.url%3A%2Fhttps%3F%3A%5C%2F%5C%2F%5B0-9%5C.%5D%2B%5C%2F%5Ba-z0-9%5D%7B16%7D%5C.php%2F
+
+/gadsz15mt25ybi5i.php
+/getnationranking.php
+/index91484101498.php
+/indexholddesktop.php
+/linewindowstrack.php
+/moduloatualizado.php
+/portallockunlock.php
+/processmeterpost.php
+/processorbigload.php
+/processorprivate.php
+/providerphptrack.php
+/pythonsecuretemp.php
+/salepopupklaviyo.php
+/vikashmitralogin.php
+/vmmultiwordpress.php
+/wfgfgf232323900x.php
+
+# Reference: https://x.com/banthisguy9349/status/1850632987844759664
+# Reference: https://www.virustotal.com/gui/file/dd9fa916c5f14c66b2e83243808072d2b084828167f9f2029366c91023c49532/detection
+# Reference: https://www.virustotal.com/gui/file/5a9a05d8b295d6c1ac506532cdbf631ad538a8e33e0d4bc9bc486851ff00cb10/detection
+
+/sigthief.py
+
+# Reference: https://x.com/StrikeReadyLabs/status/1852338012488634491
+
+/InvestmentAdvisersAct2.hta
+
+# Reference: https://x.com/1ZRR4H/status/1854029075720851965
+
+/inerr.ps1
+
+# Reference: https://x.com/banthisguy9349/status/1854575385964368184
+
+/BsO7Pc4leIEmwdV.ps1
+
+# Reference: https://x.com/raghav127001/status/1854686323950629206
+
+/Invoke-Mimi.ps1
+/Invoke-Portscan.ps1
+/Invoke-PowerShellTcpOneLine.ps1
+/Invoke-SessionHUnter.ps1
+/amsibypass.txt
+
+# Reference: https://x.com/alexocheema/status/1856295635143524378
+
+/stage1payload
+
+# Reference: https://x.com/banthisguy9349/status/1856305175285154036
+
+/ransom.ps1
+
+# Reference: https://www.fortinet.com/blog/threat-research/new-campaign-uses-remcos-rat-to-exploit-victims
+
+/cookienetbookinetcahce.hta
+
+# Reference: https://x.com/byrne_emmy12099/status/1856178461515362623
+# Reference: https://www.virustotal.com/gui/file/36db27f5eb3343cfc72d261d78da44957a49cb6731acb50a96ea5694f4d616c5/detection
+
+/wp-includes/b1tuZmhqZXJbaGZkYmdhbmFkZmhyZmEK.php
+/wp-includes/b1tuZmhqZXJbaGZkYmdhbmFkZmhyZmEKb1.php
+/b1tuZmhqZXJbaGZkYmdhbmFkZmhyZmEK.php
+/b1tuZmhqZXJbaGZkYmdhbmFkZmhyZmEKb1.php
+
+# Reference: https://x.com/cyberfeeddigest/status/1858258809778507868
+
+/emotewipe.ps1
+/emotewipe2.ps1
+
+# Reference: https://x.com/malwrhunterteam/status/1862624900592119903
+# Reference: https://www.virustotal.com/gui/file/e29d2bd946212328bcdf783eb434e1b384445f4c466c5231f91a07a315484819/detection
+
+/wp-includes/barasinghaby.ps1
+/wp-includes/neocolonialXAW.php
+/wp-includes/phyllopodan7V7GD.php
+/barasinghaby.ps1
+/neocolonialXAW.php
+/phyllopodan7V7GD.php
+
+# Reference: https://x.com/banthisguy9349/status/1864282025579987072
+
+/1krecrypted.cmd
+
+# Reference: https://x.com/Gi7w0rm/status/1864308600841068864
+
+/Network4726Man.cmd
+
+# Reference: https://x.com/solostalking/status/1864532060896924136
+
+/azured_decrypt_msol_v2.ps1
+/php_reverse_shell.php
+
+# Reference: https://x.com/banthisguy9349/status/1866121920808419751
+
+/!HELP_SOS.hta
+
+# Reference: https://isc.sans.edu/diary/Exploit+attempts+for+unpatched+Citrix+vulnerability/31446
+
+/script_xen80-mix.php
+
+# Reference: https://x.com/x86rax/status/1871278843404894464
+# Reference: https://x.com/ViriBack/status/1871287287860146425
+
+/euqhdsvm.php
+/gkkglqfm.php
+/lheqfjem.php
+/ljlgmtqf.php
+
+# Reference: https://x.com/ValidinLLC/status/1873676244392571286
+# Reference: https://www.validin.com/blog/tycoon_2fa_analyzing_and_hunting_phishing-as-a-service_domains/
+
+/res444.php
+
+# Reference: https://x.com/JAMESWT_MHT/status/1874365729832870023
+# Reference: https://www.virustotal.com/gui/file/e35d7ef701e2a95c6a9f13e379aeb8aac96dd99573e02d87daee3dd120322bce/detection
+# Reference: https://www.virustotal.com/gui/file/5d8b55532cda3855a8211e70366648a22ef5193dd36931fa61e3393290c2ada9/detection
+
+/trwsfg.ps1
+/vfrcxq.ps1
+
+# Reference: https://x.com/banthisguy9349/status/1875599493967835437
+
+/beans_shel.xml
+/beans_shel1.xml
+/beans_shel2.xml
+/beans_shel3.xml
+/beans_shel4.xml
+/beans_shell.xml
+
+# Reference: https://x.com/Slvlombardo/status/1879619287440413112
+
+/rtaownnow/rrrtttmmmw.php
+/rtaownnow/
+/rrrtttmmmw.php
+
 # Generic
 
+/5c0ca79.php
 /js/altmanluggage.js
 /js/aureliaskincare.js
 /js/bluerooster.js
@@ -7100,31 +8758,52 @@ tpc.cdn-linkedin.info
 /7328-dating-verification-card.php
 /canadiane-compte.php
 /ccgate.php
+/CodigoInject.asp
+/CodigoInject.aspx
+/CodigoInject.hta
+/CodigoInject.php
+/CodigoInject.ps1
+/CodigoInject.py
+/CodigoInject.pyc
+/CodigoInject.txt
+/DllQueVaiNoClient.txt
+/DllQueVaiNoClient.php
+/DllQueVaiNoClient.ps1
+/DllQueVaiNoClient.hta
+/DllQueVaiNoClient.asp
+/DllQueVaiNoClient.aspx
+/DllQueVaiNoClient.py
+/DllQueVaiNoClient.pyc
 /dating-verification-card.php
 /evreigate.php
 /fcc-authenticazione.php
 /g-analytic.js
+/gate_tor.php
 /gate.php
 /gate01.php
 /gate1.php
 /gate16.php
 /gate2.php
 /gate.get
+/gateg.php
+/gatenest.php
 /gating.php
 /gatw.php
 /gate.phpgate.php
 /ggate.php
 /gggate.php
+/gAy5B.php
 /Invoke-Phant0m.ps1
+/jqwery.js
 /online-dating-verification-card.php
 /ravufgate.php
 /screenshot_gate.php
 /tgate.php
 /testgate.php
-/uadmin/adm.php
-/uadmin/gate.php
 /verification-card.php
 /1drvme/
 /payload/openAttach/
 /payload/openAttache/
 /payload/openAttachment/
+/modified_ploader.cpp
+/ploader.cpp

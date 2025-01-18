@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://en.wikipedia.org/wiki/Browser_hijacking
@@ -3187,13 +3187,6 @@ c1.downlloaddatamy.info
 c2.downlloaddatamy.info
 r1.getapplicationmy.info
 
-# Reference: https://elfdigest.com/brief/49215ba3fb3e632847843780a063d93942d3282d7cbbb99d72abd0b3993d429b
-# Reference: https://www.virustotal.com/gui/file/49215ba3fb3e632847843780a063d93942d3282d7cbbb99d72abd0b3993d429b/detection
-# Reference: https://www.virustotal.com/gui/file/4aa68a06c07154d01f6b1366a485253f375e084b4ddf00ba96cec0d583182a64/detection
-
-http://208.95.112.1
-succubus.neko.ltd
-
 # Reference: https://www.virustotal.com/gui/file/56399f6fa4383d51efc562487f8da78993b40fb2ded2af626db42dc5b956e734/detection
 
 mwcseed.ddns.net
@@ -3260,13 +3253,95 @@ dlld-001.ru
 qjmm666.com
 
 # Reference: https://twitter.com/ULTRAFRAUD/status/1703462794488598907
+# Reference: https://threatfox.abuse.ch/ioc/1190361/
 # Reference: https://www.virustotal.com/gui/file/90de6b93f296541a5c245597349f2cd569472985cecbc14a1b0ccdb0951f5f13/detection
 # Reference: https://www.virustotal.com/gui/file/219393af90aa19338af5bc2ceb0892e8e6317438cf38508b652ff7a6ad9bbe50/detection
 # Reference: https://www.virustotal.com/gui/file/2ed1f5d437461caad1a296b63561bd9477d96f95f67591ebb914a7f1d6ceece9/detection
 # Reference: https://www.virustotal.com/gui/file/4e55c10e79e88019cc44951789afefd670fadaa18570a9ad3bfac0a495b7278f/detection
 
 2.155.18.40:9000
+77.225.104.91:9000
 46.25.249.37:23768
 46.27.153.138:23768
 47.63.191.10:23768
 serrapirate2121.duckdns.org
+
+# Reference: https://www.virustotal.com/gui/file/93c56f2a7edf543df3e88ebb557917d87ca53cae6c34da4f2b161d7089b04b38/detection
+
+http://173.249.27.120
+173.249.27.120:45454
+ultimatefakkers.ddns.net
+updates.ultimate-fakkers.co.network
+
+# Reference: https://twitter.com/naumovax/status/1747985922098966617
+# Reference: https://tria.ge/240116-da7gkabfck/behavioral1
+# Reference: https://www.virustotal.com/gui/file/4fc7ad1276074ef0d8b76492fdda4e096985cea9ec395fa13533f80d3ed8d2d6/detection
+# Reference: https://www.virustotal.com/gui/file/b95918223f9ace3d071e44550fd34f34c180b81e28f5e79cc4eba55006c8a6b0/detection
+
+154.91.65.76:7211
+154.91.65.76:7212
+
+# Reference: https://www.virustotal.com/gui/file/217013de55939b477e098a11a75f84d76abadd0c0faadab13bb044e6a7a69c3d/detection
+
+212.113.106.102:12600
+
+# Reference: https://www.virustotal.com/gui/file/0e0272d21046552694e6577542d1c1957206a9d6bdcad3eb80a5824dc30cbe23/detection
+# Reference: https://www.virustotal.com/gui/file/e5a29f76897ba68d88a9ef979deeae6bffb52d9355a855897e2002432f041e57/detection
+
+artificiusbrowser.com
+browseruniverse.com
+crxdragonsync.com
+crxdragonupdate.com
+
+# Reference: https://www.virustotal.com/gui/file/bb5ef9f70483ed7c79e37eca9dd136a514a346943edfe2803e27d1f6b262f05a/detection
+
+support.clz.kr
+
+# Reference: https://www.virustotal.com/gui/file/d0fda8c65b04f468c2db458e5ed48f46b715d506903ca4ca6e85fd30eb71896e/detection
+
+srv472339.hstgr.cloud
+/ZeusBrute/version/index.php
+
+# Reference: https://www.virustotal.com/gui/ip-address/88.208.60.228/relations
+# Reference: https://www.virustotal.com/gui/file/005f8aa6648fedeb4d7078c276527d9215c68b5f7caead4f7cbce8abe906c7c2/detection
+# Reference: https://www.virustotal.com/gui/file/0272643518e3db8b1a448753ab7990ee12ed15f0627d379e6d64edbb70028536/detection
+
+huyakww.info
+mnogolik002.xyz
+pichuga-dl.xyz
+valencia-dl.xyz
+vivinod4.xyz
+
+# Reference: https://x.com/suyog41/status/1798572330224132594
+# Reference: https://www.virustotal.com/gui/file/690d111294d46e755ea58ea92f485eac3e56961adf543543f8fca073148e8c5b/detection
+
+helsinki-dtc.com
+
+# Reference: https://x.com/malwrhunterteam/status/1818552423838818526
+# Reference: https://www.virustotal.com/gui/file/f9c071e45e8f9fa30579200ef896c46f2ce249a26311721f2c0a932cb64a358d/detection
+
+mord0r.hopto.org
+
+# Reference: https://www.virustotal.com/gui/file/eacfd543ad19f8edec0588a447777494f1fb7446150fd38ca4ede9e6cfcbf6a8/detection
+
+ec2-54-196-152-208.compute-1.amazonaws.com
+
+# Reference: https://x.com/malwrhunterteam/status/1831236296791970191
+# Reference: https://www.virustotal.com/gui/file/11c9a475bb7edcdf66f71c04a2481cfa70491bc90d462b5b8d587e895824ffc5/detection
+# Reference: https://www.virustotal.com/gui/file/293366b84dabe9b0a1e84c37659d0bbad2c85b4c4ad9c104923364ad69c6c8b4/detection
+
+192.46.214.232:443
+
+# Reference: https://x.com/banthisguy9349/status/1838597449910251943
+# Reference: https://www.joesandbox.com/analysis/1477772/0/html
+
+http://185.132.133.160
+http://185.132.133.163
+http://185.132.133.213
+cleverjumper.com
+openfrost.net
+
+# Reference: https://tria.ge/240928-zfp1csyckc/behavioral1
+
+cherax.menu
+dash.cherax.menu

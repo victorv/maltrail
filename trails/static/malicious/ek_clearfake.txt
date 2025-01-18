@@ -1,5 +1,7 @@
-# Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
+
+# Aliases: clickfix
 
 # Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-08-28-v10404/902
 
@@ -10,7 +12,7 @@ omdowqind.site
 wffewiuofegwumzowefmgwezfzew.site
 wnimodmoiejn.site
 
-# Referecne: https://community.emergingthreats.net/t/ruleset-update-summary-2023-08-30-v10406/909
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-08-30-v10406/909
 
 ewkekezmwzfevwvwvvmmmmmmwfwf.site
 dust-0001.delorazahnow.workers.dev
@@ -26,14 +28,17 @@ stats-best.site
 # Reference: https://threatfox.abuse.ch/browse/tag/ClearFake/
 
 921hapudyqwdvy.com
+98ygdjhdvuhj.com
 cczqyvuy812jdy.com
 cdn-new-dwnl.site
+indogevro22tevra.com
 ioiubby73b1n.com
 kjniuby621edoo.com
 lminoeubybyvq.com
 mnnoiuiuyttczchgv265d.com
 nbvyrxry216vy.com
 ngvcfrttgyu512vgv.net
+ojhggnfbcy62.com
 ojiwojdiuuywdnbhcby.com
 oiuugyfytvgb22h.com
 opkfijuifbuyynyny.com
@@ -64,3 +69,647 @@ winextrabonus.life
 # Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-09-08-v10413/928
 
 oiuytyfvq621mb.org
+
+# Reference: https://threatfox.abuse.ch/browse/tag/ClearFake/ (# 2023-10-07)
+
+boiibzqmk12j.com
+nmbvcxzasedrt.com
+oiouhvtybh291.com
+wsexdrcftgyy191.com
+zasexdrc13ftvg.com
+/lander/chrome_1695206714/_cf.php
+/lander/chrome_1695206714/_index.php
+/chrome_1695206714/_index.php
+/chrome_1695206714/_cf.php
+/lander/chrome_1695206714/
+/chrome_1695206714/
+
+# Reference: https://threatfox.abuse.ch/ioc/1188153/
+
+chromiumtxt.space
+
+# Reference: https://threatfox.abuse.ch/ioc/1188713/
+
+chromiumlink.site
+
+# Reference: https://twitter.com/DonPasci/status/1713860495764062600
+
+chromiumbase.site
+hwthurmann.de/wp/chromium/
+
+# Reference: https://twitter.com/karol_paciorek/status/1713910402302558281
+# Reference: https://twitter.com/g0njxa/status/1713914026328031474
+
+basechromium.space
+chromiumengine.space
+isaiahradio.com
+mvpdigital.net
+
+# Reference: https://blog.sekoia.io/clearfake-a-newcomer-to-the-fake-updates-threats-landscape/
+# Reference: https://github.com/SEKOIA-IO/Community/blob/main/IOCs/clearfake/clearfake_iocs_20231016.csv
+
+bookchrono8273.com
+bpjoieohzmhegwegmmuew.online
+brewasigfi1978.workers.dev
+indogervo22tevra.com
+oiqwbuwbwqznjqsdfsfqhf.site
+opmowmokmwczmwecmef.site
+sioaiuhsdguywqgyuhiqw.org
+
+# Reference: https://twitter.com/g0njxa/status/1713919587996057847
+
+altenara.com
+doolittles.be
+easymall.co.th
+esmito.com
+filmovita.ba
+megacarwreckers.com.au
+or-and.com
+sistemajogodobicho.com
+staging.armipour.com
+
+# Reference: https://threatfox.abuse.ch/ioc/1189985/
+
+nbvcdrtyup584wd.com
+
+# Reference: https://twitter.com/g0njxa/status/1713646965840339438
+
+33webtasarim.com
+
+# Reference: https://twitter.com/JAMESWT_MHT/status/1714681019855450263
+
+nazarenoagape.com.br/temp/
+
+# Reference: https://twitter.com/DonPasci/status/1714925226985750832
+
+lollyjayconcepts.com/wp-content/plugins/chromium/ChromiumEngine.zip
+
+# Reference: https://threatfox.abuse.ch/browse/tag/ClearFake/ (# 2023-10-19)
+# Reference: https://twitter.com/crep1x/status/1719433333686342027
+
+02w65ijjohr1frm.com
+3ol33lgbrvyjk3d.com
+4m9q0m87vnmx0d1.com
+b1omodh51hw6g3d.com
+cnswg1vzx6heh0f.com
+efmdwkmwke.xyz
+efmdwkmwkq.xyz
+eofjdo3zwxvbi57.com
+hello-world-broken-dust-1f1c.brewasigfi1978.workers.dev
+l0yolufbw5yeabs.com
+lindodeusercontent.com
+ocmtancmi2c5t.live
+poibvyctm21e.com
+server2-slabx.ocmtancmi2c5t.live
+
+# Reference: https://threatfox.abuse.ch/browse/tag/FakeUpdateRU/
+
+cbasechromium.space
+placengine.site
+
+# Reference: https://twitter.com/g0njxa/status/1717657394891669861
+
+chrome-up.com
+ggsdown.top
+kcdq78.fit
+update.chrome-up.com
+updateload.live
+y13xlt1d.xyz
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-11-03-v10457/1091
+
+koolstoredeluxe.com
+stats-tracked.com
+
+# Reference: https://twitter.com/threatcat_ch/status/1721100855183634653
+
+efmdwkmwk.xyz
+
+# Reference: https://threatfox.abuse.ch/browse/tag/ClearFake/ (# 2023-11-07)
+
+d693na2y4mpkhr34.vip
+jonathanbonnici.com
+longlakeweb.com
+midatlanticlabel.com
+mcguffinboots.com
+thebestthings1337.online
+ov.d693na2y4mpkhr34.vip
+u513fdanj.online
+u513fdanj.site
+u513fdanj.website
+
+# Reference: https://threatfox.abuse.ch/browse/tag/ClearFake/ (# 2023-11-23)
+
+dfjoiners.com
+howmuchtimeuneed.online
+konstanzkom.com
+theoptimistfirst.site
+
+# Reference: https://twitter.com/crep1x/status/1727970391417635312
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-11-27-v10473/1166
+
+excellentpatterns.com
+jagernaut.com
+/hyk7789hgd/
+/hyk7789hgd/_cf.php
+/lander/hyk7789hgd/_cf.php
+
+# Reference: https://twitter.com/threatcat_ch/status/1729430998394216450
+
+alicortech.com
+
+# Reference: https://threatfox.abuse.ch/browse/tag/ClearFake/ (# 2023-12-04)
+
+acotechgh.com
+akademipraktik.com
+beksystems.com
+brushremovalequipment.com
+concgc.com
+delaneymc.com
+doctorkiki.me
+easyloanbazzar.com
+getwiththelingo.com
+greatesttreatise.com
+kronosmagazine.com
+marybskitchen.com
+/feqsdqdsq/_cf.php
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-12-14-v10486/1209
+
+onewayskateboard.com
+
+# Reference: https://www.bridewell.com/insights/blogs/detail/clearfake-campaign
+
+awumnf.com
+ulmoyc.com
+zoolclaud.pw
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-05-07-v10591/1617
+
+bandarsport.net
+itemsdostawa.com
+valentinedaycard.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-05-08-v10592/1622
+
+currentsilverprice.com
+debtavailable.com
+listwisconsin.com
+teachabletutorials.com
+voicelesson.org
+waytowealth.org
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-05-09-v10593/1628
+
+consultantinsurance.net
+skylinehigh.com
+y9f6z0q1w2.xyz
+
+# Reference: https://x.com/threatcat_ch/status/1799511973261922773
+
+b9y3b7ner2.xyz
+cv2b8uz46e.xyz
+v7yen47u2e.xyz
+
+# Reference: https://x.com/david_jursa/status/1799536449466909178
+
+s9l0w7n3y5.xyz
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-06-21-v10624/1751/1
+
+ryruhuu3.xyz
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-06-21-v10624/1751/1
+
+cleanway.5asec.fr
+
+# Reference: https://x.com/ffforward/status/1806669882991239378
+
+daslkjfhi2.shop
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-07-18-v10648/1828
+
+daslkjfhi2.pics
+ndm2398asdlw.shop
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-06-25-v10627/1764
+
+divyjai2.xyz
+
+# Reference: https://x.com/4n6Bexaminer/status/1820718431257428297
+# Reference: https://x.com/karol_paciorek/status/1820770887697649907
+
+bannerbarter.com
+bestcdnforfree.site
+cejecuu4.xyz
+cococuy8.xyz
+d1x9q8w2e4.xyz
+forgreatestgoal.site
+gotthebestoffer.site
+p4wq3e5r6t.xyz
+polikarbonad.xyz
+x52op6gt0i.xyz
+/bvxny6r6
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-08-05-v10659/1875
+
+dais7nsa.pics
+dais7nsa.shop
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-08-21-v10671/1910
+
+expertcloud.xyz
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-08-23-v10673/1914
+
+skibidirizz.lol
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-08-26-v10674/1918
+
+ajsdiaolke.shop
+
+# Reference: https://threatfox.abuse.ch/browse/malware/js.clearfake/ (# 2024-09-09)
+
+109.248.206.101:443
+109.248.206.106:443
+109.248.206.118:443
+109.248.206.122:443
+109.248.206.138:443
+109.248.206.153:443
+109.248.206.157:443
+109.248.206.159:443
+109.248.206.160:443
+109.248.206.196:443
+109.248.206.49:443
+109.248.206.51:443
+109.248.206.83:443
+185.192.111.195:443
+185.192.111.198:443
+185.192.111.199:443
+185.192.111.201:443
+185.192.111.202:443
+185.192.111.203:443
+188.119.112.25:443
+5.252.21.234:443
+62.182.156.148:443
+000111.org
+beaulieuhome.com
+bigdownload.lol
+bigdownload.xyz
+biginfo.xyz
+biwumii5.xyz
+businessresources.ltd
+christmascookie.org
+dais7nsa.lol
+daslkjfhi2.homes
+daslkjfhi2.lol
+disypoy4.xyz
+downloaddining.rest
+drinkresources.rest
+execresource.ltd
+expertcloud.lol
+file-transfer.xyz
+filesoftdownload.shop
+fileupdate.lol
+fileupdate.pics
+fileupdate.xyz
+fufug.enterprisedownloads.ltd
+ginidue5.xyz
+gteairfone.com
+ichiupdate.lat
+informupdate.uno
+jegyfuy0.xyz
+karmaandfate.com
+kibagendi.org
+lifestylechoices.us
+majordatabases.lat
+mdasidy72.lol
+mdasidy72.mom
+mdasidy72.pics
+mdasidy72.shop
+ndas8m92.lol
+ndm2398asdlw.homes
+ndm2398asdlw.lol
+ndm2398asdlw.mom
+peskpdfgif.shop
+pillowscrawler.xyz
+playfulyogi.org
+quickresource.lol
+quickresource.xyz
+rsmbscm.wikilogistics.wiki
+salesoftskills.com
+skibidirizz.mom
+soft-download123file.xyz
+test-1627838.shop
+thecheapestcdn.site
+ug62r67uiijo2.com:443
+weoleycastletaxis.co.uk
+whattotext.net
+wikilogistics.wiki
+x8f7a89.pics
+x99y.xyz
+
+# Reference: https://x.com/cocaman/status/1837455373420093755
+
+gertioma.top
+
+# Reference: https://www.proofpoint.com/au/blog/threat-insight/clipboard-compromise-powershell-self-pwn
+
+oazevents.com
+
+# Reference: https://www.proofpoint.com/us/blog/threat-insight/security-brief-actor-uses-compromised-accounts-customized-social-engineering
+
+live-samsaratrucking.com
+
+# Reference: https://x.com/unmaskparasites/status/1846975894415724807
+# Reference: https://www.godaddy.com/resources/news/threat-actors-push-clickfix-fake-browser-updates-using-stolen-credentials
+
+md928zs.shop
+smolcatkgi.shop
+
+# Reference: https://x.com/RussianPanda9xx/status/1851090918562201763
+# Reference: https://urlscan.io/result/0e1972f5-bc53-43a8-8382-09219112c775/
+
+inspyrehomedesign.com
+
+# Reference: https://x.com/joe4security/status/1851914797350019510
+# Reference: https://www.joesandbox.com/analysis/1545769/0/html#deviceScreen
+
+thecopycat.biz
+webdemo.biz
+
+# Reference: https://x.com/tosscoinwitcher/status/1858588990678724873
+
+porn-zoo.sbs
+
+# Reference: https://x.com/RussianPanda9xx/status/1860398656651702683
+
+addonclicks.com
+adflowhubs.com
+adpathsync.com
+adslinker45.com
+adstrails.com
+adsvector.com
+adsynergyz.com
+adzcurrent.com
+analytrex.com
+andropalaces.com
+beonebe.com
+besidegamz.com
+bestgetcontent.com
+bestreceived.com
+betterdirectit.com
+betterthanit.com
+blubelive.com
+boltsreach.com
+bonusawardz.com
+brandswebs.com
+branksite.com
+brimoro.com
+bristykalkuz.com
+campaignpace.com
+campaigntide.com
+camplytic.com
+campnudge.com
+camptracer24.com
+checkingspeed.com
+checkpageonce.com
+circuitsprime.com
+clickcampaigner.com
+clickforprocess.com
+clickgravitate.com
+clicksgauge.com
+clicksroute.com
+clickthistogo.com
+clicktoreach.com
+clickwavetracker.com
+clickzstreamer.com
+cloudzyra.com
+clovixo.com
+continuedownloader.com
+continuefor.com
+continueurl.com
+countlessurl.com
+creativityboss.com
+cyrusdashboard.com
+dateyouwant.com
+digitalcurvetech.com
+downloadsbeta.com
+downloadstep.com
+driftsparks.com
+dynamotrack.com
+editorcoms.com
+eternalsurfing.com
+fastclickgo.com
+fineliveliness.com
+firstigame.com
+fresoma.com
+futureconfirmed.com
+galaxyofapps.com
+gamebalri.com
+gamingzonesup.com
+glidronix.com
+go2linktrack.com
+godagichi.com
+greatchoicing.com
+helpmemoverand.com
+hoststotrack.com
+impressflow.com
+inclinethem.com
+instantclickflow.com
+interwebonline.com
+itstodayornever.com
+jumpinter.com
+justmytouch.com
+kalamouse.com
+kodekthungg.com
+latifsnaps.com
+licensedgetogeth.com
+linksoptix.com
+linkspans.com
+linksqube.com
+linksvibe.com
+lnkfyre.com
+loadingtab.com
+logmypath.com
+lovemeboy.com
+lynciflow.com
+managingeasily.com
+matrixbridges.com
+mediamanagerverif.com
+megarises.com
+minitracked.com
+moldstrap.com
+multitrackings.com
+mylinkservice.com
+mytrackflow.com
+nanolinkpoint.com
+nettrackway.com
+nettrilo.com
+netvaultix.com
+newoneis.com
+nexorpath.com
+nextinclick.com
+oceanbreezeget.com
+onceletthemcheck.com
+orbitgridline.com
+pageintab.com
+pathofclicks.com
+pathsyncer.net
+pixelpathsway.com
+primarydrives.com
+primelinkpulse.com
+privatemeld.com
+proceedtonext.com
+promojet88.com
+provenhandshakecap.com
+pukiup.com
+quantispath.com
+quantumtrackers.com
+quicklinkdrive.com
+reachorax.com
+ready4track.com
+readyforwebsite.com
+routedpulse.com
+routegrids.com
+rovynex.com
+runtonext.com
+safetransfering.com
+satisfiedweb.com
+scrutinycheck.cash
+scrutinycheckout.com
+searchmegood.com
+secureporter.com
+sendmewhere.com
+servinglane.com
+sheenglathora.com
+sitebrank.com
+smartykhan.com
+sourceszone.com
+speedlinkzone.com
+speedywaygo.com
+spintore.com
+spotmyaction.com
+statzeon.com
+stream4core.com
+streamingszone.com
+stringwebber.com
+successeditdone.com
+suresignalflow.com
+swapages.com
+syncthewebs.com
+synqchra.com
+sysswap.com
+tagsflare.com
+takeandgonow.com
+takemetoworld.com
+taketheright.com
+themovingfoster.com
+tookmybest.com
+toptierwebsite.com
+trackblitzad.com
+trackedcurl.com
+trackgamess.com
+tracklystic.com
+tracksforge.com
+trackspin32.com
+tracksvista.com
+trafficmorph.com
+trailsift.com
+trakingame.com
+transfertonext.com
+treeflame.com
+treovax.com
+trkallpages.com
+tunneloid.com
+urlignite.com
+urlstreams.com
+valbexo.com
+velindor.com
+vividconnects.com
+webbazookaa.com
+webconnectline.com
+webdriveshere.com
+westreamdaily.com
+yourtruelover.com
+zeplavibe.com
+heroic-genie-2b372e.netlify.app
+poetic-pixie-c95fb0.netlify.app
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-10-21-v10724/2066
+
+srftjwrty6kew.shop
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-10-28-v10729/2083
+
+bigops.s3.us-east-2.amazonaws.com
+youcansay.s3.us-east-2.amazonaws.com
+
+# Reference: https://x.com/DaveLikesMalwre/status/1879181121872593194
+# Reference: https://app.validin.com/detail?find=reCAPTCHA%20Verification&type=raw#tab=host_pairs
+
+angelopnavarro.com
+bincbusd.site
+briolaundry.com
+coachcorral.com
+csm4tqs.com
+davidbergergroup.com
+envirotekhomes.com
+essvtch.site
+fatura-pt-fdeldade.site
+fdelidade-pt-com.site
+fdelidade-pt-ng.site
+fdelidadeptosl.site
+fidelidateopt.site
+fidelidept.site
+fidelidlnpt.site
+fididadpt-of.site
+gr-nbd.site
+gr-nboik.site
+gravipod.com
+idolmusiclimited.com
+ifuckyourpc.win
+ireneray.net
+jcsalesteam.com
+l1nxx.para.rip
+lnepytw.site
+mapfr-es.site
+maryrezek.com
+mbresidencesbrickell.com
+miabeachwaterfront.com
+mississippiconcretecontractor.com
+nashvillegranite.net
+ndg-id.site
+nxgengames.com
+page-yoda.blog
+para.rip
+premiertents.com
+primeden.com
+pt-fdelidade.site
+pt-fdelidader-egisto.site
+pt-fideldideid.site
+pt-fidelilde.site
+roofingcontractorinutah.com
+saltysolssurfschool.com
+segurateam.com
+thealexteamflorida.com
+theworthgrouppalmbeach.com
+treeservicerhodeislandpro.com
+treeserviceshouston.net
+trestlecreekspecklepark.com
+whatcomsoccer.com
+captcha.nxgengames.com
+
+# Reference: https://x.com/ffforward/status/1879889672392040846
+# Reference: https://www.virustotal.com/gui/file/8125ef032eadfc547bcdd2e311a1d4e2cb33e0383c3ac2d8eb40c43bc6d11634/detection
+
+clintonmakes.com
+motel6lax.com
+
+# Generic
+
+/a3A7qLVn/
+/fEOV2v/
+/vvmd54/
+/wzfsr4f/
+/ZgbN19Mx

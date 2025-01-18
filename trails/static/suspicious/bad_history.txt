@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://github.com/deepfield/dnsflow-merit/blob/f484bc792c1b743057a9e6a443cf9fe26ae444fe/src/blacklists/domains1.txt
@@ -27,7 +27,6 @@ autohton2005.ro
 bestfinderr.cn
 bitaid.nl
 carita.pl
-centrepassatge.com
 citygroupservices.com
 coll-med6.freevar.com
 darkscape.info
@@ -3159,7 +3158,6 @@ insoftprotect.com
 internetissafe.com
 internetsecurity-suite.com
 internetsmart-secure4u.net
-invisibleprotection.net
 iqtzbgiqva1496fk.com
 isdignsafe.com
 jacbocome6.co.cc
@@ -7853,7 +7851,6 @@ cutped.com
 9669b6b96b.com
 acdeubbamlc.com
 acdpeylaoxk.com
-adfirmogroup.com
 admin-vertigo2.uni.cc
 aghjpcfamlc.com
 ahf3fa6yf.com
@@ -17028,7 +17025,6 @@ pypwalve.ru
 qq12300.com
 raviganeshassociates.com
 rujascur.ru
-salesio.net
 shortrib.ru
 siteanalitycs.ru
 smn.klm.net.pl
@@ -17513,7 +17509,6 @@ maison-a-restaurer.fr
 malermeister-papen.de
 martinschroer.eu
 maspedmeasled.bogotatraveller.info
-maxdezignz.com
 mebel2010.ru
 meewxib.ru
 meisure.com
@@ -22155,7 +22150,6 @@ plusidea.co.jp
 pocomixing.com
 qii678.com
 reasoninghollow.com
-saif711.zapto.org
 seemsready.com
 sj-marketing.fr
 superu.com
@@ -23728,7 +23722,6 @@ babushkapriehalaa.com
 babygo01.com
 backupmarquis.com
 bagogilu.hostoi.com
-bague-a-tm.com
 bakkerconstruction.com
 balalaikablahblahblah.info
 banercom.net

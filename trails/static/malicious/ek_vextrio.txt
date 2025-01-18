@@ -1,0 +1,44 @@
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-01-23-v10512/1313
+
+a.crystalcraft.top
+allprizeshub.life
+bonustop-price.life
+crystalcraft.top
+greatbonushere.top
+logsmetrics.com
+lookup-domain.com
+prizes-topwin.life
+webdatatrace.com
+womanflirting.life
+
+# Reference: https://blogs.infoblox.com/cyber-threat-intelligence/cybercrime-central-vextrio-operates-massive-criminal-affiliate-program/
+# Reference: https://insights.infoblox.com/resources-research-report/infoblox-research-report-dns-predators-attack-vipers-hawks-hijack-sitting-ducks-domains
+
+antibotcloud.com
+antibotcloudapi.com
+clicksme.org
+hixastump.com
+megastok.top
+prom-gg.com
+strouchridun.top
+superbowsm.top
+supersbows.us
+tomorrows.top
+vipshopevent.su
+d.strouchridun.top
+go.clicksme.org
+tiktok.megastok.top
+tiktok.superbowsm.top
+tiktok.supersbows.us
+tiktok.tomorrows.top
+
+# Reference: https://blogs.infoblox.com/threat-intelligence/vextrio-viper-adds-a-new-dns-tds-domain/
+
+airlogs.net
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-11-12-v10740/2133
+
+omenkid.top

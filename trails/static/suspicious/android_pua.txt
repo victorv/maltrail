@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://www.welivesecurity.com/2019/10/24/tracking-down-developer-android-adware/ (# AdDisplay)
@@ -246,7 +246,7 @@ rapi.mobikwik.com
 # Reference: https://www.virustotal.com/gui/domain/iface.zzwy168.com/relations
 # Reference: https://www.virustotal.com/gui/domain/line.zzwy168.com/relations
 # Reference: https://www.virustotal.com/gui/domain/sp.zzwy168.com/relations
-# Refereence: https://www.virustotal.com/gui/domain/sp1.zzwy168.com/relations
+# Reference: https://www.virustotal.com/gui/domain/sp1.zzwy168.com/relations
 
 iface.zzwy168.com
 line.zzwy168.com
@@ -955,3 +955,109 @@ ww.ikswr.cn
 # Reference: https://www.virustotal.com/gui/file/90e124a3f5a0406fec2e5b413c54b4902a12cf0f0594c4f1c7066c9e244a7269/detection
 
 api.zochao.com
+
+# Reference: https://twitter.com/noexceptcpp/status/1736751864836706438
+# Reference: https://www.virustotal.com/gui/file/e7bf41ee71b2bf14498b340e26f5c697cd15f8af8da362c88b1e7abf802b28c6/detection
+
+a-spy.com
+
+# Reference: https://www.virustotal.com/gui/domain/apkzzz.com/relations
+# Reference: https://www.virustotal.com/gui/file/03ef4cd9a4ff1d62d15dbad294def6ad4af2c65bc4471d5a4b86465b5779d75f/detection
+
+apkzzz.com
+
+# Reference: https://www.virustotal.com/gui/file/a2c891067734dbb22fb7fa48327173b07438acfc8077dc56df85128e77ad4645/detection
+
+116.31.174.58:13130
+116.31.174.58:18181
+douch666.tpddns.net
+/cfsfq_apk_cjwt.html
+
+# Reference: https://www.virustotal.com/gui/file/000011499d68e56e2c5853567c88c58ee20d38e5df538c9899959a040d49e97e/detection
+
+116.205.4.157:8890
+47.91.170.222:8080
+lingte.cc
+imgsx.lingte.cc
+
+# Reference: https://www.virustotal.com/gui/file/07d5b94fb903aa93ddf66c8298e1ccb8f615fd33239b5121b9070d61ca201690/detection
+
+173.231.184.122:9999
+46.8.8.200:9999
+
+# Reference: https://www.virustotal.com/gui/file/c1ec167e03c783615b4db8970975a0bfec61334c109715b61af7c3871c32119f/detection
+
+aqqq.zxuxogt.cn
+
+# Reference: https://twitter.com/noexceptcpp/status/1765374236510527898
+# Reference: https://www.virustotal.com/gui/file/2da13b787e9dcea186e5c1d60eabf9f017c380c963e193ef5026f3a46c911dcd/detection
+
+androidapk.biz
+spykontrol.com
+pc.spykontrol.com
+appkontrol.s3.amazonaws.com
+
+# Reference: https://www.humansecurity.com/learn/blog/satori-threat-intelligence-alert-proxylib-and-lumiapps-transform-mobile-devices-into-proxy-nodes
+
+lumiapps.io
+nsignal.net
+
+# Reference: https://www.virustotal.com/gui/file/00baa478e544b007e0563487bd10d95c101e3286a25a1141c8753468a6d730b3/detection
+
+dsss.gq
+
+# Reference: https://www.virustotal.com/gui/file/7e83453d04b9a28bbf4e618d6ce9c7b3c39ce831ac447345f94d92b10c64a474/detection
+
+truenaira.co
+app.truenaira.co
+
+# Reference: https://www.virustotal.com/gui/file/0006b60beef812e84cdb5003a55cb62f184171d865fc860e3c21264981bb8083/detection
+
+http://47.245.34.200
+121.43.228.180:8583
+
+# Reference: https://twitter.com/RacWatchin8872/status/1788909709249945803
+
+http://23.228.64.5
+http://23.228.77.144
+http://23.228.77.145
+http://23.228.77.147
+http://23.228.77.148
+http://23.228.77.155
+
+# Reference: https://www.virustotal.com/gui/file/000000a512a847e8ed28fdaf433d6dd601a88d74e5dd7d71bd07817b1ce3a2a2/detection
+
+android.downloadatoz.com
+topdata.downloadatoz.com
+
+# Reference: https://www.virustotal.com/gui/file/1f0d3e8ca830582c486a17de697b955e3431adf36418cb1ce9ead5089c60b5d7/detection
+
+freefire2021.giize.com
+
+# Reference: https://www.virustotal.com/gui/file/a949fca2d77feca5289355487f538ce7c2ea6f97ead82808697e0414d50b4b63/detection
+
+akisinn.info
+akisinn.site
+dewrain.life
+dewrain.site
+vaicore.site
+vaicore.store
+vaicore.xyz
+int.akisinn.info
+int.akisinn.site
+int.dewrain.life
+int.dewrain.site
+int.vaicore.site
+int.vaicore.store
+int.vaicore.xyz
+
+# Reference: https://www.mcafee.com/blogs/other-blogs/mcafee-labs/spyloan-a-global-threat-exploiting-social-engineering/
+
+mykreditandfear.com
+nihxdzzs.com
+pegetloanability.com
+hx.nihxdzzs.com
+prep.preprestamoshol.com
+preprestamoshol.com
+su.mykreditandfear.com
+tlon.pegetloanability.com

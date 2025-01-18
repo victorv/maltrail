@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://www.noip.com/sign-up
@@ -163,7 +163,6 @@ iexchangedit.com
 ilangiu.com
 ilovecollege.info
 imosaseafood.com
-imprendum.com
 intpropint.com
 iprowave.com
 jdfinancialserver.com
@@ -199,7 +198,6 @@ mexsipel.net
 mgipr.com
 mh-it.com
 midstatecomp.com
-mikecartwright.net
 mistermousepotato.com
 mithrandir.us
 mlbfan.org
@@ -369,7 +367,6 @@ vpntraki.com
 wallyswienerworld.com
 warp9computers.com
 webhop.me
-webvalua.com
 westbendweatheronline.com
 westblade.com
 workisboring.com
@@ -1068,7 +1065,6 @@ mysecuritycamera.org
 sytes.net
 serveminecraft.net
 redundantdns.net
-serveirc.com
 enterprisemx.com
 point2this.com
 ilovecollege.info
@@ -1596,7 +1592,6 @@ servegame.com
 servehalflife.com
 servehttp.com
 servehumour.com
-serveirc.com
 serveminecraft.net
 servemp3.com
 servep2p.com
@@ -1742,10 +1737,6 @@ tpddns.cn
 # Reference: https://www.virustotal.com/gui/domain/strangled.net/details
 
 strangled.net
-
-# Reference: https://www.virustotal.com/gui/domain/russkoeumea.com/details
-
-russkoeumea.com
 
 # Reference: https://www.virustotal.com/gui/domain/remoteaccess.me/details
 
@@ -2921,7 +2912,6 @@ astrabus.ru
 patelmortgage.com
 pedie.info
 cpct.com
-divakeramika.com
 isamotherfucking.ninja
 tvlinux.com
 brawlcustommusic.com
@@ -3286,6 +3276,10 @@ dvrlists.com
 
 1qw.us
 
+# Reference: https://www.virustotal.com/gui/domain/6bc.us/relations
+
+6bc.us
+
 # Reference: https://desec.readthedocs.io/en/latest/dyndns/configure.html
 # Reference: https://www.virustotal.com/gui/domain/dedyn.io/relations
 
@@ -3448,7 +3442,7 @@ com.se
 
 dynip.online
 
-# Refereence: https://www.virustotal.com/gui/domain/ddns.network/relations
+# Reference: https://www.virustotal.com/gui/domain/ddns.network/relations
 
 ddns.network
 
@@ -3496,3 +3490,180 @@ m-x.cfd
 # Reference: https://www.virustotal.com/gui/domain/thaieasydns.com/relations
 
 thaieasydns.com
+
+# Reference: https://www.virustotal.com/gui/domain/treatwellshome.xyz/relations
+
+treatwellshome.xyz
+
+# Reference: https://www.virustotal.com/gui/domain/keenetic.link/relations
+
+keenetic.link
+
+# Reference: https://www.virustotal.com/gui/domain/bumbleshrimp.com/relations
+
+bumbleshrimp.com
+
+# Reference: https://www.virustotal.com/gui/domain/4cloud.click/detection
+
+4cloud.click
+
+# Reference: https://www.virustotal.com/gui/domain/perfect-privacy.com/relations
+
+perfect-privacy.com
+
+# Reference: https://www.virustotal.com/gui/domain/no-ip.me/relations
+
+no-ip.me
+
+# Reference: https://www.virustotal.com/gui/domain/changeip.co.uk/relations
+
+changeip.co.uk
+
+# Reference: https://www.virustotal.com/gui/domain/changeip.me/relations
+
+changeip.me
+
+# Reference: https://app.validin.com/axon?find=158.247.7.206&type=ip
+
+faststream.link
+noip.click
+noip.digital
+noip.life
+noip.link
+noip.network
+noip.re
+noip.store
+noip.team
+noip.website
+noip.world
+sharkstream.live
+sitodom.website
+zapto.live
+
+# Reference: https://www.virustotal.com/gui/domain/mykeenetic.ru/relations
+
+mykeenetic.ru
+
+# Reference: https://www.virustotal.com/gui/domain/coolpage.biz/relations
+
+coolpage.biz
+
+# Reference: https://www.virustotal.com/gui/domain/dyn-ip24.de/relations
+
+dyn-ip24.de
+
+# Reference: https://www.virustotal.com/gui/domain/nat123.cc/relations
+
+nat123.cc
+nat123.fun
+nat123.net
+
+# Reference: https://www.virustotal.com/gui/domain/dyndns.uno/relations
+
+dyndns.uno
+
+# Reference: https://www.virustotal.com/gui/domain/noip.sbs/relations
+
+noip.sbs
+
+# Reference: https://www.virustotal.com/gui/domain/fluxus.org/relations
+
+fluxus.org
+
+# Reference: https://www.virustotal.com/gui/domain/jerkface.net/relations
+
+jerkface.net
+
+# Reference: https://www.virustotal.com/gui/domain/tpddns.net/relations
+
+tpddns.net
+
+# Reference: https://www.virustotal.com/gui/domain/darkworlds.org/relations
+
+darkworlds.org
+
+# Reference: https://www.virustotal.com/gui/domain/addns.org/relations
+
+addns.org
+
+# Reference: https://www.virustotal.com/gui/domain/ddns.nbis.net/relations
+
+ddns.nbis.net
+
+# Reference: https://www.virustotal.com/gui/domain/ionexusa.com/relations
+
+ionexusa.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-06-21-v10624/1751/1
+
+manoahinvest.com
+michiganbowling.com
+
+# Reference: https://www.virustotal.com/gui/domain/pchelp-24.com/relations
+
+pchelp-24.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-06-25-v10627/1764
+# Reference: https://www.virustotal.com/gui/domain/utdnews.com/relations
+
+utdnews.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-06-25-v10627/1764
+# Reference: https://www.virustotal.com/gui/domain/eduarmor.com/relations
+
+eduarmor.com
+
+# Reference: https://www.virustotal.com/gui/domain/itzzm.com/relations
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-07-31-v10657/1862
+
+itzzm.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-08-19-v10669/1904
+
+elangtama.com
+
+# Reference: https://www.virustotal.com/gui/domain/dns-dynamic.net/relations
+
+dns-dynamic.net
+
+# Reference: https://www.virustotal.com/gui/domain/fixip.org/relations
+
+fixip.org
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-08-21-v10671/1910
+# Reference: https://www.virustotal.com/gui/domain/flexiblegeeks.com/relations
+
+flexiblegeeks.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-08-27-v10675/1920
+
+42.ar
+ridespirals.com
+
+# Reference: https://www.virustotal.com/gui/domain/mydns.jp/relations
+
+mydns.jp
+
+# Reference: https://www.virustotal.com/gui/domain/ddnsgratis.com.br/relations
+
+ddnsgratis.com.br
+
+# Reference: https://www.virustotal.com/gui/domain/myddns.biz/relations
+
+myddns.biz
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-10-04-v10714/2029
+
+is-very.fun
+
+# Reference: https://www.virustotal.com/gui/domain/ddns-ip.net/relations
+
+ddns-ip.net
+
+# Reference: https://www.virustotal.com/gui/domain/dnc.su/relations
+
+dnc.su
+
+# Reference: https://www.virustotal.com/gui/domain/ip-ddns.com/relations
+
+ip-ddns.com

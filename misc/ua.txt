@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Suspicious user-agent regular expressions
@@ -732,8 +732,14 @@ NMS\.19
 l33boLAMER
 
 # Reference: https://twitter.com/sixdub/status/992001190950031361
+# Reference: http://plok1.blogspot.com/2018/02/a-new-spreader-with-mimikatz.html
 
 WinHTTP loader/1.0
+
+# Reference: https://twitter.com/naumovax/status/1758504367114555766
+# Reference: https://habr.com/ru/companies/pt/articles/793440/ (RU-lang)
+
+WinHTTP Example/1.0
 
 # Reference: https://twitter.com/stvemillertime/status/985150675527974912
 
@@ -1209,10 +1215,6 @@ ouija_x.86_64
 
 Christmas Mystery
 Install Capital
-
-# Reference: http://plok1.blogspot.com/2018/02/a-new-spreader-with-mimikatz.html
-
-WinHTTP loader/1.0
 
 # Reference: https://devcentral.f5.com/s/articles/is-xmaker-the-new-trickloader-24372
 # Reference: https://twitter.com/VK_Intel/status/1213253987492864000/photo/2
@@ -2070,6 +2072,7 @@ Lingjiang
 qwrqrwrqwrqwr
 rqwrwqrqwrqw
 mozzzzzzzzzzz
+mmozzzzzzzzzz
 
 # Reference: https://cert.gov.ua/article/619229 (Ukrainian)
 # Reference: https://blog.malwarebytes.com/threat-intelligence/2022/07/cobalt-strikes-again-uac-0056-continues-to-target-ukraine-in-its-latest-campaign/
@@ -2206,11 +2209,15 @@ ZeroStresser Botnet
 
 # Reference: https://unit42.paloaltonetworks.com/trident-ursa/
 # Reference: https://twitter.com/WhichbufferArda/status/1616895455182442497
+# Reference: https://research.checkpoint.com/2023/malware-spotlight-into-the-trash-analyzing-litterdrifter/
+# Reference: https://securityintelligence.com/x-force/hive0051-all-in-triple-threat/
 
 \bjosephine\b
 \bsnventor\b
 \binsufficient\b
 ::\/\.josephine\/
+;;\/\.jumper\/
+;;\/\.justly\/
 ;;\/\.insufficient\/
 ;;\/\.snventor\/
 (;;|::)\/?\.?\w+\/?(;;|::)?
@@ -2359,6 +2366,186 @@ GameInfo
 
 OnionWClient
 OnionWClient/1.0
+
+# Reference: https://twitter.com/suyog41/status/1706563514717081907
+
+SunShineMoonLight
+MoonLight
+SunShine
+
+# Reference: https://twitter.com/anyrun_app/status/1706899869921628334
+
+^TeslaBrowser/5.5$
+
+# Reference: https://www.zscaler.com/blogs/security-research/bunnyloader-newest-malware-service
+
+Bunny
+BunnyLoader
+BunnyStealer
+BunnyTasks
+HeartBeat\_Sender
+
+# Reference: https://media.defense.gov/2023/May/24/2003229517/-1/-1/0/CSA_Living_off_the_Land.PDF
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-10-25-v10448/1067
+
+\)[\t]{3}[ ]{4}Gecko
+
+# Reference: https://twitter.com/naumovax/status/1718956514491130301
+
+4B4DB4B3
+
+# Reference: https://twitter.com/t3ft3lb/status/1718982477140951312
+
+FireFox 17.13
+
+# Reference: https://www.hybrid-analysis.com/sample/ae3871ce94e7bc492f78f998459bd40cb6af950a5eb09d19b4bd61e0200c49fb/5c24050b7ca3e122510ebe13
+
+Seetrol
+SeetrolClient
+
+# Reference: https://twitter.com/crep1x/status/1724116057047113782
+
+SouthSide
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-11-14-v10465/1122
+
+inflammable
+
+# Reference: https://twitter.com/crep1x/status/1731638155109884014
+
+MrBidenNeverKnow
+
+# Reference: https://twitter.com/naumovax/status/1734557711029719133
+# Reference: https://www.virustotal.com/gui/file/9739730a204d25c60edbbbbcafbc1f7661b3f9ecac98601498dc843cf8b40e41/detection
+# Reference: https://www.virustotal.com/gui/file/ebaf7e53a6dc0b054c6cefde7a664af90d2e71e53bdb87c7cedcd662890943c9/detection
+
+Nothing
+qiQqi
+
+# Reference: https://twitter.com/doc_guard/status/1737494486295486473
+# Reference: https://app.docguard.io/4bfc29dff0955937190a085c6114d5019555558ed4a79b4fcb75a18ed28a3252/results/dashboard
+# Reference: https://www.virustotal.com/gui/file/4bfc29dff0955937190a085c6114d5019555558ed4a79b4fcb75a18ed28a3252/detection
+
+YaPopalsyaNaTroyan
+
+# Reference: https://twitter.com/t3ft3lb/status/1737839842057408918
+# Reference: https://www.virustotal.com/gui/ip-address/179.43.141.70/relations
+# Reference: https://www.virustotal.com/gui/file/4061254c893de6b78810afeec5e231948820e1be6e9579f32d07ef9c51ae42f7/detection
+# Reference: https://www.virustotal.com/gui/file/26a3d4584a8fb5c12182ddb5fc97d9c00527e1de11700fe25e9c2035fedd831a/detection
+
+Microcrop
+
+# Reference: https://twitter.com/sicehice/status/1731078656473072004
+# Reference: https://twitter.com/sicehice/status/1739779125689364800
+
+t\.me\/DeltaApi
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-12-28-v10495/1245
+
+JWrapper
+JWrapperDownloader
+
+# Reference: https://twitter.com/suyog41/status/1746855106006626600
+# Reference: https://www.virustotal.com/gui/file/0184da37044346dc32c3023b1b0fd98550561324bf89ec2f56af41c248131b3f/detection
+
+Antarctica
+
+# Reference: https://github.com/eset/malware-ioc/tree/master/grandoreiro#user-agent
+
+h55u4u4u5uii5
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-02-06-v10525/1358
+
+muzcat
+
+# Reference: https://www.virustotal.com/gui/file/000045dbf06452ca867c7553c40297cfe8f954fe3d7083402d48aaefe5ebd3ec/detection
+
+TixDll
+
+# Reference: https://twitter.com/suyog41/status/1771135469327417684
+
+AGCYRNRWWWFZZSWWFWDYDCVDN
+
+# Reference: https://twitter.com/DmitriyMelikov/status/1772661332904468851
+# Reference: https://tria.ge/240326-rg9gdsbh74/behavioral2
+# Reference: https://www.virustotal.com/gui/file/bbdbcec62526b94b38d7ab4e0e794efcc363cd7ec033f39c543c666378c317ea/detection
+
+SSLoad
+SSLoad/1.1
+
+# Reference: https://x.com/suyog41/status/1810268207241982376
+# Reference: https://www.virustotal.com/gui/ip-address/172.81.60.40/relations
+# Reference: https://www.virustotal.com/gui/file/f6d171e79e2fb38b3919011835c8117a1c56788bcf634e69ae67a5e255fb9d58/detection
+# Reference: https://www.virustotal.com/gui/file/14bbe421abe496531f4c63b16881eee23fb2c92b2938335dca1668206882201a/detection
+
+QllXjxbyEvMuARVOztDiSZDNtQQb
+
+# Reference: https://x.com/naumovax/status/1813151432419254656
+# Reference: https://www.ctfiot.com/193014.html
+# Reference: https://tria.ge/240715-lrfzyazfmm/behavioral2
+# Reference: https://www.virustotal.com/gui/file/6afdf4a3088bff045e1998d2dc2863b90d06765abb2dc35c7b93c456b9818e55/detection
+
+kmdjdheyytgebfghehhenegsdfsdf
+
+# Reference: https://x.com/malwrhunterteam/status/1813311575723511869
+# Reference: https://www.virustotal.com/gui/file/bef99f862b9d7a47bddf9d51121196ab2f25234b38169c49e47a672bf849a7c9/detection
+
+sarabi
+sarabi xor
+
+# Reference: https://x.com/ViriBack/status/1814702278030332091
+# Reference: https://tria.ge/240720-txe9latdqd/behavioral1
+# Reference: https://www.virustotal.com/gui/file/c2a095bf5b04c0ce7af29aebab583b31d76475b3e15762ba5db956b0a3f717d5/detection
+
+\/xevil\b
+
+# Reference: https://x.com/naumovax/status/1817905495824327144
+
+User-Agent:Mozilla
+
+# Reference: https://x.com/malwrhunterteam/status/1818577746861199398
+
+\bMALCJS\b
+
+# Reference: https://x.com/g0njxa/status/1829177645348860120
+
+NIKMOK
+
+# Reference: https://x.com/Jane_0sint/status/1829451117337399719
+# Reference: https://app.any.run/tasks/4a153e23-21c4-4001-93e1-c0aa1ea4e261
+
+Diamotrix
+
+# Reference: https://x.com/Jane_0sint/status/1829452981168718017
+# Reference: https://app.any.run/tasks/2296c79b-a1bb-4f42-b543-ece52d241372
+
+NuclearBot
+
+# Reference: https://tria.ge/240928-zfp1csyckc/behavioral1
+
+Cherax-Loader
+
+# Reference: https://www.sentinelone.com/labs/bluenoroff-hidden-risk-threat-actor-targets-macs-with-fake-crypto-news-and-novel-persistence/
+
+cur1-agent
+
+# Reference: https://x.com/johnk3r/status/1866144119686602887
+
+AdvancedInstaller
+
+# Reference: https://x.com/abuse_ch/status/1867512002483978242
+
+President
+PresidentPutin
+
+# Reference: https://medium.com/@TomiwaAmuda/unveiling-a-sophisticated-phishing-attack-159a47fe2f18
+
+Zoomer
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-12-30-v10819/2306
+
+FlappyBird
+UNK_FlappyBird
 
 # Misc
 

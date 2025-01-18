@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Aliases: browlock
@@ -21595,3 +21595,85 @@ hostline.pages.dev
 # Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-09-20-v10421/970
 
 cpmmasters.com
+
+# Reference: https://twitter.com/david_jursa/status/1712840230695252255
+
+maidenvalve2.online
+rofesinapidah.online
+tq-eu.maidenvalve2.online
+tq.maidenvalve2.online
+xml-eu-v4.maidenvalve2.online
+xml-v4.maidenvalve2.online
+xml.maidenvalve2.online
+
+# Reference: https://threatfox.abuse.ch/ioc/1190858/
+
+browserengine.online
+
+# Reference: https://twitter.com/malwrhunterteam/status/1717060335679492368
+# Reference: https://twitter.com/malwrhunterteam/status/1717474745917075852
+# Reference: https://twitter.com/malwrhunterteam/status/1719617032767848748
+
+d2mvehzm92szfi.cloudfront.net
+internetsecuritynotice72.z13.web.core
+/Win08Ay0Er08d8d77/index.html
+/Win081ShlJckEr08d07/index.html
+/Win08Ay0Er08d8d77/
+/Win081ShlJckEr08d07/
+
+# Reference: https://twitter.com/david_jursa/status/1719754073941963176
+
+kpdofa.xyz
+sea-lion-appmnkjiuuyjhhgytgf-j2o8b.ondigitalocean.app
+/ErWinhotlineEr087/index.html
+/ErWinhotlineEr087/
+
+# Reference: https://twitter.com/malwrhunterteam/status/1719619667134660655
+
+m13ya72ud343p.azureedge.net
+
+# Reference: https://twitter.com/elhackernet/status/1724018796870930766
+# Reference: https://www.virustotal.com/gui/ip-address/138.68.80.98/relations
+
+fruitsofhealth.shop
+
+# Reference: https://twitter.com/malwrhunterteam/status/1726525829189099969
+# Reference: https://twitter.com/malwrhunterteam/status/1732424582806843423
+# Reference: https://twitter.com/malwrhunterteam/status/1739251934677082602
+
+greatsupport.azurewebsites.net
+holycross.azurewebsites.net
+malfunctionerror.azurewebsites.net
+supportlove.azurewebsites.net
+zealous-tree-00ef28f10.4.azurestaticapps.net
+/Win08ShDMeEr0887/index.html
+/Win08ShDMeEr0887/
+
+# Reference: https://twitter.com/as_informatico/status/1729446054716907762
+
+louraalex.com
+
+# Reference: https://twitter.com/g0njxa/status/1743242436619706398
+
+breavestcardioworkoutsforultimates04526.azurewebsites.net
+
+# Reference: https://twitter.com/g0njxa/status/1751312088515985728
+
+totalpart.z9.web.core.windows.net
+totalpartningonline.z9.web.core.windows.net
+
+# Reference: https://unit42.paloaltonetworks.com/profiling-detecting-malicious-dns-traffic/
+
+networkcyclechain.com
+cqk1rt8hubcc73f3775g.networkcyclechain.com
+
+# Reference: https://x.com/Gi7w0rm/status/1829938817249452041
+
+vtgbcxds1-secondary.z11.web.core.windows.net
+/werrx01USAHTML/?bcda=
+/werrx01USAHTML/
+
+# Reference: https://x.com/9823f_/status/1854280540335100183
+
+/Wi0n62HelpErr0Amr062/index.html
+/Wi0n62HelpErr0Amr062/

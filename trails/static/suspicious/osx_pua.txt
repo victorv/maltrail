@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://blog.malwarebytes.com/mac/2020/02/mac-adware-is-more-sophisticated-dangerous-than-traditional-mac-malware/
@@ -42,3 +42,22 @@ d1z6i8y4ytpgjk.cloudfront.net
 # Reference: https://www.virustotal.com/gui/file/b047d28d0df6ee8b9e4a3c7744df58b77ed2eb1e990604e416ec2410bc34d8f4/detection
 
 3.6.115.182:14904
+
+# Reference: https://twitter.com/malwrhunterteam/status/1745964134666010690
+# Reference: https://www.virustotal.com/gui/file/1aa18ebfcd106659f25920b15e4c9735f16e74a4dddf0bc34b39c0f3ef18ad61/detection
+
+36.139.160.250:8000
+36.139.160.250:8889
+
+# Reference: https://x.com/malwrhunterteam/status/1854638105719931221
+# Reference: https://www.virustotal.com/gui/ip-address/129.154.205.7/relations
+# Reference: https://www.virustotal.com/gui/file/1cc570ef64e4cdc47d54bbf4e40b6dc47f5f2696c2010405d15a5e2abdfd4f4b/detection
+# Reference: https://www.virustotal.com/gui/file/0acd993292a1a40aaf8058110f6f091844dd46d36691dc35d4314a768f66fd63/detection
+# Reference: https://www.virustotal.com/gui/file/0470933fab460b50192f1a26ac33a32e952208c523a3acebfefb20f908c041f8/detection
+
+eiyou.fun
+jeter.eu.org
+idea.eiyou.fun
+string.eiyou.fun
+idea.jeter.eu.org
+string.jeter.eu.org
