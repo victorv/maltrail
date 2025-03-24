@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://twitter.com/threatinsight/status/1666403634312105987
@@ -16,6 +16,20 @@ capecod-junk.com/qwj/39f/cxbk6k0w4cc
 notebooknut.com/qzc/h3054isqvmf
 marketsheadlines.com/wfhfxtktx
 tacuabol.net/wfhfxtktf
+
+# Reference: https://twitter.com/1ZRR4H/status/1709421805880877346
+
+codeidealist.com/swd5u
+drkalbrecht.com/far6q
+thebakerboy.com/wbl6d
+
+# Reference: https://twitter.com/1ZRR4H/status/1712705927231439270
+
+evinakortu.com/news/
+hofsaalos.com/news/
+jerryposter.com/users/
+jkbarmossen.com/news/
+skrechelres.com/news/
 
 # Generic
 

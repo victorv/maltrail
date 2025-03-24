@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://twitter.com/pmelson/status/1331018695531958272
@@ -18,8 +18,22 @@ portmapper.myonlineportal.net
 
 natfrp.cloud
 
-# Reference: https://twitter.com/malwrhunterteam/status/1491742434451197958
-# Reference: https://twitter.com/malwrhunterteam/status/1491744530198110213
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-11-02-v10456/1090
+# Reference: https://www.virustotal.com/gui/domain/ngrok-free.app/relations
+# Reference: https://app.validin.com/axon?find=34.211.83.157&type=ip
 
-packetriot.net
-pktriot.net
+ngrok.app
+ngrok.com
+ngrok.dev
+ngrok.pizza
+ngrok-free.app
+ngrok-free.dev
+
+# Reference: https://app.validin.com/axon?find=54.218.37.147&type=ip
+
+hotspotproxy.tk
+
+# Reference: https://x.com/malwrhunterteam/status/1829127614868439316
+# Reference: https://www.virustotal.com/gui/file/d8b11b8b437f83a1ad55c954b4a80081abfaf3c29cbc922d57b76bc20745111a/detection
+
+ngrok.pro

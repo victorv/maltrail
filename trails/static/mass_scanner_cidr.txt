@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # This list is based off mass_scanner.txt with all IPs matched against their nearest /24 network.
@@ -8,6 +8,8 @@
 13.249.87.0/24 # 13.249.87.125
 31.24.231.0/24 # scanner3.labs.rapid7.com
 35.202.2.0/24 # ltx71
+35.203.210.0/24 # cortex xpanse
+35.203.211.0/24 # cortex xpanse
 35.239.58.0/24 # ltx71
 45.33.2.0/24 # 45.33.2.193
 45.33.66.0/24 # 45.33.66.232
@@ -39,6 +41,7 @@
 52.216.145.0/24 # 52.216.145.202
 52.216.80.0/24 # 52.216.80.226
 52.216.92.0/24 # 52.216.92.82
+64.62.197.0/24 # scan-36a.shadowserver.org
 64.125.239.0/24 # riskiq.com
 64.225.124.0/24 # binaryedge.ninja
 64.225.64.0/24 # binaryedge.ninja
@@ -483,6 +486,8 @@
 161.35.63.0/24 # binaryedge.ninja
 161.35.97.0/24 # binaryedge.ninja
 162.142.125.0/24 # censys.io
+162.216.149.0/24 # cortex xpanse
+162.216.150.0/24 # cortex xpanse
 162.243.137.0/24 # 162.243.137.229
 165.22.124.0/24 # binaryedge.ninja
 165.22.125.0/24 # binaryedge.ninja
@@ -610,6 +615,7 @@
 169.53.184.0/24 # 169.53.184.0
 169.54.233.0/24 # 169.54.233.112
 169.54.244.0/24 # 169.54.244.64
+170.64.165.0/24 # binaryedge.ninja
 172.104.130.0/24 # 172.104.130.222
 172.104.174.0/24 # 172.104.174.208
 172.104.182.0/24 # 172.104.182.103
@@ -750,11 +756,13 @@
 198.211.112.0/24 # binaryedge.ninja
 198.211.113.0/24 # binaryedge.ninja
 198.211.96.0/24 # binaryedge.ninja
+198.235.24.0/24 # cortex xpanse
 203.178.148.0/24 # pinger-j1.ant.isi.edu.
 204.42.253.0/24 # openntpproject.org
 204.42.254.0/24 # openresolverproject.org
 204.48.21.0/24 # binaryedge.ninja
 204.48.26.0/24 # binaryedge.ninja
+205.210.31.0/24 # cortex xpanse
 206.189.106.0/24 # binaryedge.ninja
 206.189.115.0/24 # binaryedge.ninja
 206.189.116.0/24 # binaryedge.ninja
@@ -1085,3 +1093,18 @@
 # Reference: https://github.com/datacenters-network/security/commit/fe8fb8b5a55df1292bbbf71917ec42b5caf9d6ae
 
 94.102.61.0/24 # criminalip.com
+
+# Reference: https://internet-measurement.com/#ips
+
+87.236.176.0/24 # driftnet.io
+193.163.125.0/24 # driftnet.io
+68.183.53.77 # driftnet.io
+104.248.203.191 # driftnet.io
+104.248.204.195 # driftnet.io
+142.93.191.98 # driftnet.io
+157.245.216.203 # driftnet.io
+165.22.39.64 # driftnet.io
+167.99.209.184 # driftnet.io
+188.166.26.88 # driftnet.io
+206.189.7.178 # driftnet.io
+209.97.152.248 # driftnet.io

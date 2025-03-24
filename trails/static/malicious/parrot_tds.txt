@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://decoded.avast.io/janrubin/parrot-tds-takes-over-web-servers-and-threatens-millions/
@@ -68,3 +68,27 @@ visit.statclick.net
 
 webfiledata.com
 storage.webfiledata.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-01-25-v10514/1322
+
+visitclouds.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-01-30-v10519/1339
+
+followcache.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-02-08-v10527/1366
+
+visitscloud.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-05-17-v10598/1649
+
+public.clickstat360.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-07-17-v10647/1826
+
+jswebcloud.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-08-30-v10678/1926
+
+load.webdatahoster.com

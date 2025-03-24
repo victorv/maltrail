@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # User reported
@@ -40,7 +40,6 @@ comuv.com
 comxa.com
 comyr.com
 comze.com
-crabdance.com
 ddl2.pl
 designcarthosting.com
 digitalzones.com
@@ -159,6 +158,7 @@ zymic.com
 # Reference: http://buildfree.org/quicklinks.html
 
 000webhost.com
+000webhostapp.com
 00freehost.com
 0catch.com
 0hna.com
@@ -265,6 +265,7 @@ websitehostfree.com
 webspawner.com
 weebly.com
 wix.com
+wixsite.com
 wtcsites.com
 x10hosting.com
 xaper.com
@@ -311,7 +312,6 @@ comxa.com
 comyr.com
 comze.com
 co.nu
-crabdance.com
 ddl2.pl
 designcarthosting.com
 digitalzones.com
@@ -465,3 +465,7 @@ medianewsonline.com
 # Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2022-11-17-v10175/164
 
 mypressonline.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-11-16-v10467/1126
+
+infinityfreeapp.com

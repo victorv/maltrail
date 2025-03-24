@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """
-Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 See the file 'LICENSE' for copying permission
 """
 
@@ -1014,7 +1014,7 @@ def init():
         except re.error:
             sys.exit("[!] invalid configuration value for 'REMOTE_SEVERITY_REGEX' ('%s')" % config.REMOTE_SEVERITY_REGEX)
 
-    if config.CAPTURE_FILTER:
+    if config.CAPTURE_FILTER and not config.pcap_file:
         print("[i] setting capture filter '%s'" % config.CAPTURE_FILTER)
         for _cap in _caps:
             try:
@@ -1176,6 +1176,11 @@ def monitor():
                         break
                 except (pcapy.PcapError, socket.timeout):
                     pass
+                except SystemError as ex:
+                    if "PY_SSIZE_T_CLEAN" in str(ex):
+                        sys.exit("[!] seems that you are not using pcapy-ng (https://pypi.org/project/pcapy-ng/)")
+                    else:
+                        raise
 
                 if not success:
                     time.sleep(REGULAR_SENSOR_SLEEP_TIME)
